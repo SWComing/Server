@@ -1,0 +1,1 @@
+start /min /dFetchServer\ FetchServer\FetchServer64.exe

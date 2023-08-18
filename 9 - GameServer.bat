@@ -1,0 +1,1 @@
+start /min /dGameServer\ GameServer\GameServer64.exe

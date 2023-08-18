@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<API xmlns="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+  <Config>
+    <callUri>192.168.25.3</callUri>
+    <apiid>fistsoffu</apiid>
+    <apikey>55f516a17f5e6939341c0ed4f221af69</apikey>
+  </Config>
+  <Functions>
+    
+    <function name="getInfo">
+		<Envelope>
+			<getInfo action="/user/v1/getInfo">
+				<Parameters>
+					<name>string</name>
+					<token>string</token>
+				</Parameters>
+				<Response>
+					<token_age>int64</token_age>
+					<user_id>int64</user_id>
+					<login>string</login>
+					<user_role>string</user_role>
+					<blocked>bool</blocked>
+				</Response>
+			</getInfo>
+		</Envelope>
+    </function>
+    
+    <function name="EnterWeb">
+		<Envelope>
+			<EnterWeb action="/user/v1/EnterWeb">
+				<Parameters>
+					<name>string</name>
+					<pass>string</pass>
+				</Parameters>
+				<Response>
+					<token>string</token>
+				</Response>
+			</EnterWeb>
+		</Envelope>
+    </function>
+    
+  </Functions>
+</API>

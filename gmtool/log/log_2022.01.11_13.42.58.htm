@@ -1,0 +1,65 @@
+<html> <HEAD><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><CENTER> <TITLE>Log</TITLE> <H3><font color="#FFFF97">Log for 11/1/2022 13:42:58</font><br><br></CENTER> </HEAD>                           <BODY link="#FFFFFF" vlink="#FFFF97" alink="#FFFFFF" bgcolor="#000000">                                                                                       <br><hr><br><pre></font><font face="courier new" size="2" color="#00FF00">---------------------------------------
+ROBOT CONNECTING VERSION : BX
+---------------------------------------
+cout : KncRobotManager::SetNum(), 2022-01-11 13:42:58,  Robot is generateed :  0 -> 1 <-> 1
+<hr>Change LogLevel (from 2 to 2 ).<hr></font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 13:42:58,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 13:43:02, Connect To : 10.0.0.148:20300
+@ EGS_CONNECT_REQ (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_CONNECT_ACK (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+@ EGS_VERIFY_ACCOUNT_REQ (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_VERIFY_ACCOUNT_ACK (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EBL_USER_LOGIN_NOT (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_USER_RMB_MONEY_INIT (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_CHAT_SERVER_INFO_NOT (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KncRobot::ON_EBL_USER_LOGIN_NOT(), 2022-01-11 13:43:05, State Error. Name : SOB_01/11/22_13:42:58_00000000000000000000
+    NowState : KGSFSM::S_INIT
+    LastState : KGSFSM::S_INIT
+    AllowState : ( 1, KGSFSM::S_UID_UPDATED )    
+</font><font face="courier new" size="2" color="#C1F0FF">EVENT EGS_USER_RMB_MONEY_INIT (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+@ EGS_GM_LOGIN_REQ (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_GM_LOGIN_ACK (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+@ EGS_GM_GET_AUTH_REQ (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_GM_GET_AUTH_ACK (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_EGS_GM_GET_AUTH_ACK(), 2022-01-11 13:43:18,  I was leaved out,Not  oh ~~ 
+    
+</font><font face="courier new" size="2" color="#C1F0FF">@ EGS_GM_GET_COMMAND_REQ (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_GM_GET_COMMAND_ACK (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+@ EGS_GM_GET_AREA_INFO_REQ (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_GM_GET_AREA_INFO_ACK (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+@ EGS_GM_GET_AREA_INFO_REQ (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_GM_GET_AREA_INFO_ACK (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+EVENT EGS_KICK_CLIENT_NOT (name:SOB_01/11/22_13:42:58_00000000000000000000)    
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSession::KSkSession::OnRecvCompleted(), 2022-01-11 13:49:05, closed by remote machine
+    wstrErr : Overlapped I/O operation is in progress.
+
+</font><font face="courier new" size="2" color="#FF0000">cerr : KSession::OnSocketError(), 2022-01-11 13:49:05, call session OnSocketError.
+    m_bServerProxy : true
+    
+cerr : KSession::OnSocketError(), 2022-01-11 13:49:05, GetLastError. 
+    wstrErr : The data area passed to a system call is too small.
+
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 13:49:05,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 13:49:05,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 13:49:07, Connect To : 10.0.0.148:20300
+@ EGS_CONNECT_REQ (name:SOB_01/11/22_13:49:05_00000000000000000001)    
+EVENT EGS_CONNECT_ACK (name:SOB_01/11/22_13:49:05_00000000000000000001)    
+@ EGS_GM_GET_AREA_INFO_REQ (name:SOB_01/11/22_13:49:05_00000000000000000001)    
+@ EGS_GM_GET_AREA_INFO_REQ (name:SOB_01/11/22_13:49:05_00000000000000000001)    
+@ EGS_GM_LOGIN_REQ (name:SOB_01/11/22_13:49:05_00000000000000000001)    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::HandleExpiredEvent(), 2022-01-11 14:00:52,  operation time out ~~ 
+    vit->m_usEvent : 554
+    KEvent::GetIDStr(vit->m_usEvent) : EGS_GM_GET_AREA_INFO_ACK
+    
+</font></font><font face="<font face="couriercourier new" size="" size="22" color="" color="#C1C8FF#C1F0FF">">clog2 : KIocp::GetSockObject(), clog : KncRobotManager::Tick_RobotProcess(), </font><font face="courier" size="2022-01-11 14:00:522" color="#C1C8FF, ">2022-01-11 14:00:52</font>, <font face="cann't find SOCKET POINTER. Key : courier new2" size="
+2" color="    #C1F0FFm_mapSockObj.size() : "> leave out Robot.! </font><font face="courier" size="
+2" color="#C1C8FF    ">0</font>
+<font face="    courier new
+" size="2" color="#C1F0FF">iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:00:52,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:00:56, Connect To : 10.0.0.148:20300
+@ EGS_CONNECT_REQ (name:SOB_01/11/22_14:00:52_00000000000000000002)    
+EVENT EGS_CONNECT_ACK (name:SOB_01/11/22_14:00:52_00000000000000000002)    

@@ -1,0 +1,1 @@
+start /min /dDBAgentServer\ DBAgentServer\DBAgentServer64.exe

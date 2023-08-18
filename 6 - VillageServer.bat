@@ -1,0 +1,1 @@
+start /min /dVillageServer\ VillageServer\VillageServer64.exe

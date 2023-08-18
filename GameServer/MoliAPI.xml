@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<API xmlns="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+  <Config>
+    <callUri>http://192.168.1.66/MoliAPI.asmx</callUri>
+    <user>Simon</user>
+    <pass>123</pass>
+  </Config>
+  <Functions>
+    <function name="EnterWeb">
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="http://billing.moliyo.com/">
+      <UserName>string</UserName>
+      <PassWord>string</PassWord>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <EnterWeb xmlns="http://billing.moliyo.com/">
+      <name>string</name>
+      <pass>string</pass>
+    </EnterWeb>
+  </soap:Body>
+</soap:Envelope>
+    </function>
+    <function name="PSS_GetMemberBill">
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="http://billing.moliyo.com/">
+      <UserName>string</UserName>
+      <PassWord>string</PassWord>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <PSS_GetMemberBill xmlns="http://billing.moliyo.com/">
+      <gameId>int</gameId>
+      <userName>string</userName>
+    </PSS_GetMemberBill>
+  </soap:Body>
+</soap:Envelope>
+    </function>
+    <function name="PSS_MPCardIns">
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="http://billing.moliyo.com/">
+      <UserName>string</UserName>
+      <PassWord>string</PassWord>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <PSS_MPCardIns xmlns="http://billing.moliyo.com/">
+      <gameId>int</gameId>
+      <userName>string</userName>
+      <cardId>string</cardId>
+      <cardPwd>string</cardPwd>
+      <userIp>string</userIp>
+    </PSS_MPCardIns>
+  </soap:Body>
+</soap:Envelope>
+    </function>
+    <function name="PSS_MemberTDRIns">
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="http://billing.moliyo.com/">
+      <UserName>string</UserName>
+      <PassWord>string</PassWord>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <PSS_MPDeductMoney xmlns="http://billing.moliyo.com/">
+      <gameId>int</gameId>
+      <userName>string</userName>
+      <deductMoney>int</deductMoney>
+    </PSS_MPDeductMoney>
+  </soap:Body>
+</soap:Envelope>
+    </function>
+  </Functions>
+</API>

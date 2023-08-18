@@ -1,0 +1,225 @@
+<html> <HEAD><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><CENTER> <TITLE>Log</TITLE> <H3><font color="#FFFF97">Log for 11/1/2022 14:4:33</font><br><br></CENTER> </HEAD>                           <BODY link="#FFFFFF" vlink="#FFFF97" alink="#FFFFFF" bgcolor="#000000">                                                                                       <br><hr><br><pre></font><font face="courier new" size="2" color="#00FF00">---------------------------------------
+ROBOT CONNECTING VERSION : BX
+---------------------------------------
+cout : KncRobotManager::SetNum(), 2022-01-11 14:04:33,  Robot is generateed :  0 -> 1 <-> 1
+<hr>Change LogLevel (from 2 to 2 ).<hr></font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:04:33,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:04:37, Connect To : 10.0.0.148:20300
+@ EGS_CONNECT_REQ (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EGS_CONNECT_ACK (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+@ EGS_VERIFY_ACCOUNT_REQ (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EGS_VERIFY_ACCOUNT_ACK (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EBL_USER_LOGIN_NOT (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EGS_USER_RMB_MONEY_INIT (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EGS_CHAT_SERVER_INFO_NOT (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KncRobot::ON_EBL_USER_LOGIN_NOT(), 2022-01-11 14:04:40, State Error. Name : SOB_01/11/22_14:04:33_00000000000000000000
+    NowState : KGSFSM::S_INIT
+    LastState : KGSFSM::S_INIT
+    AllowState : ( 1, KGSFSM::S_UID_UPDATED )    
+</font><font face="courier new" size="2" color="#C1F0FF">EVENT EGS_USER_RMB_MONEY_INIT (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+@ EGS_GM_LOGIN_REQ (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EGS_GM_LOGIN_ACK (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+@ EGS_GM_GET_AREA_INFO_REQ (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EGS_GM_GET_AREA_INFO_ACK (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+@ EGS_GM_UPDATE_AREA_INFO_REQ (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EGS_GM_UPDATE_AREA_INFO_ACK (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+@ EGS_GM_GET_AREA_INFO_REQ (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+EVENT EGS_GM_GET_AREA_INFO_ACK (name:SOB_01/11/22_14:04:33_00000000000000000000)    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KIocp::OnClosedByLocal(), 2022-01-11 14:21:18, KIocp::OnClosedByLocal : 
+    dwKey_ : 1
+    pkObj->GetIPStr() : 10.0.0.148
+    GetLastError() : 64
+    KncUtil::GetLastErrMsg() : The specified network name is no longer available.
+
+    
+cerr : KSession::OnSocketError(), 2022-01-11 14:21:18, call session OnSocketError.
+    m_bServerProxy : true
+    
+cerr : KSession::OnSocketError(), 2022-01-11 14:21:18, GetLastError. 
+    wstrErr : The data area passed to a system call is too small.
+
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:18,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:18,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:20, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:21, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:21,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:21,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:21,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:25, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:26, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:26,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:27,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:27,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:31, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:32, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:32,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:32,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:32,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:33, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:34, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:34,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:34,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:34,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:39, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:40, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:40,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:40,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:40,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:43, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:44, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:44,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:44,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:44,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:46, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:47, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:47,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:47,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:47,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:50, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:51, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:51,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:51,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:51,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:53, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:54, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:54,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:54,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:54,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:21:56, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:21:57, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:21:57,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:57,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:21:57,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:22:00, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:22:01, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:22:01,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:22:02,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:22:02,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:22:06, Connect To : 10.0.0.148:20300
+</font><font face="courier new" size="2" color="#FF9900">cwarn : KSocketObject::Connect(), 2022-01-11 14:22:07, 
+    WSAGetLastError() : 10061
+    m_dwKey : 0
+    szIP_ : 10.0.0.148
+    usPort_ : 20300
+    
+</font><font face="courier new" size="2" color="#FF0000">cerr : KncRobot::ON_A_CONNECT(), 2022-01-11 14:22:07,  joins the defeat 
+    strIP : 10.0.0.148
+    usPort : 20300
+    
+</font><font face="courier new" size="2" color="#C1F0FF">clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:22:07,  leave out Robot.! 
+    iIndex : 1
+clog : KncRobotManager::Tick_RobotProcess(), 2022-01-11 14:22:07,  generates Robot defeat .! 
+    m_vecCreateRobot[i] : 1
+clog : KSession::Connect(), 2022-01-11 14:22:12, Connect To : 10.0.0.148:20300

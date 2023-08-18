@@ -1,0 +1,8 @@
+[ODBC]
+Driver=MySQL ODBC 5.1 Driver
+Server=localhost
+Port=3306
+Database=Statistics
+User=sa
+Password=123456
+Option=3

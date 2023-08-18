@@ -1,0 +1,25 @@
+﻿
+g_pMain:SetClientVersion_LUA("SW")
+g_pMain:SetSubClientVersion_LUA( "BX.3.0.2" )
+g_pMain:SetLoadBalancerIP( "192.168.25.3" )		-- 6月新服务
+g_pMain:SetLoadBalancerPort( 9900 )
+
+g_pMain:SerServerTimeOut( 99999 )
+
+g_pMain:SetAutoLoginUnitIndex( 0 )
+g_pMain:SetSafetyKey( "" )
+
+g_pMain:SetSquareMaxUserNum( 80 )
+
+
+g_pMain:DeleteFile( "ErrorLog.txt" )
+g_pMain:DeleteFile( "DialogLog.txt" )
+g_pMain:DeleteFile( "P2PLog.txt" )
+g_pMain:DeleteFile( "State.log" )
+
+-- GAME_P2P_PORT = 8765
+
+
+
+
+

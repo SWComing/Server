@@ -1,0 +1,6 @@
+g_pSkillTree:AddSkillPoint( 1, 30, 2 )
+g_pSkillTree:AddSkillPoint( 31, 40, 3 )
+g_pSkillTree:AddSkillPoint( 41, 50, 3 )
+g_pSkillTree:AddSkillPoint( 51, 60, 3 )
+g_pSkillTree:AddSkillPoint( 61, 70, 3 )
+g_pSkillTree:AddSkillPoint( 71, 80, 3 )

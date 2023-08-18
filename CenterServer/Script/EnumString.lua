@@ -1,0 +1,6224 @@
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_NONE,
+  ENUM_STRING = "WI_NONE"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_01_01,
+  ENUM_STRING = "WI_A_01_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_01_02,
+  ENUM_STRING = "WI_A_01_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_02_01,
+  ENUM_STRING = "WI_A_02_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_02_03,
+  ENUM_STRING = "WI_A_02_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_02_02,
+  ENUM_STRING = "WI_A_02_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_02_04,
+  ENUM_STRING = "WI_A_02_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_03_01,
+  ENUM_STRING = "WI_A_03_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_03_02,
+  ENUM_STRING = "WI_A_03_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_03_03,
+  ENUM_STRING = "WI_A_03_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_03_04,
+  ENUM_STRING = "WI_A_03_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_03_05,
+  ENUM_STRING = "WI_A_03_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_03_06,
+  ENUM_STRING = "WI_A_03_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_03_07,
+  ENUM_STRING = "WI_A_03_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_04_01,
+  ENUM_STRING = "WI_A_04_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_04_02,
+  ENUM_STRING = "WI_A_04_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_04_03,
+  ENUM_STRING = "WI_A_04_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_04_04,
+  ENUM_STRING = "WI_A_04_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_05_01,
+  ENUM_STRING = "WI_A_05_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_05_02,
+  ENUM_STRING = "WI_A_05_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_05_03,
+  ENUM_STRING = "WI_A_05_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_05_04,
+  ENUM_STRING = "WI_A_05_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_06_01,
+  ENUM_STRING = "WI_A_06_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_06_02,
+  ENUM_STRING = "WI_A_06_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_06_03,
+  ENUM_STRING = "WI_A_06_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_06_04,
+  ENUM_STRING = "WI_A_06_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_06_05,
+  ENUM_STRING = "WI_A_06_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_06_06,
+  ENUM_STRING = "WI_A_06_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_06_07,
+  ENUM_STRING = "WI_A_06_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_01_MOON_BAY_01,
+  ENUM_STRING = "WI_B_01_MOON_BAY_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_01_MOON_BAY_02,
+  ENUM_STRING = "WI_B_01_MOON_BAY_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_01_MOON_BAY_03,
+  ENUM_STRING = "WI_B_01_MOON_BAY_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_01_MOON_BAY_04,
+  ENUM_STRING = "WI_B_01_MOON_BAY_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_01_MOON_BAY_05,
+  ENUM_STRING = "WI_B_01_MOON_BAY_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_01_MOON_BAY_06,
+  ENUM_STRING = "WI_B_01_MOON_BAY_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_02_DOCK_01,
+  ENUM_STRING = "WI_B_02_DOCK_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_02_DOCK_04,
+  ENUM_STRING = "WI_B_02_DOCK_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_02_DOCK_02,
+  ENUM_STRING = "WI_B_02_DOCK_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_02_DOCK_05,
+  ENUM_STRING = "WI_B_02_DOCK_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_02_DOCK_03,
+  ENUM_STRING = "WI_B_02_DOCK_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_03_LAOJUN_MOUNTAIN_01,
+  ENUM_STRING = "WI_B_03_LAOJUN_MOUNTAIN_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_03_LAOJUN_MOUNTAIN_04,
+  ENUM_STRING = "WI_B_03_LAOJUN_MOUNTAIN_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_03_LAOJUN_MOUNTAIN_02,
+  ENUM_STRING = "WI_B_03_LAOJUN_MOUNTAIN_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_03_LAOJUN_MOUNTAIN_03,
+  ENUM_STRING = "WI_B_03_LAOJUN_MOUNTAIN_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_04_HILLOCK_01,
+  ENUM_STRING = "WI_B_04_HILLOCK_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_04_HILLOCK_02,
+  ENUM_STRING = "WI_B_04_HILLOCK_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_04_HILLOCK_03,
+  ENUM_STRING = "WI_B_04_HILLOCK_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_04_HILLOCK_04,
+  ENUM_STRING = "WI_B_04_HILLOCK_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_05_GULLY_01,
+  ENUM_STRING = "WI_B_05_GULLY_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_05_GULLY_02,
+  ENUM_STRING = "WI_B_05_GULLY_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_05_GULLY_03,
+  ENUM_STRING = "WI_B_05_GULLY_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_05_GULLY_04,
+  ENUM_STRING = "WI_B_05_GULLY_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_06_CLOUD_MOUNTAIN_01,
+  ENUM_STRING = "WI_B_06_CLOUD_MOUNTAIN_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_06_CLOUD_MOUNTAIN_05,
+  ENUM_STRING = "WI_B_06_CLOUD_MOUNTAIN_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_06_CLOUD_MOUNTAIN_02,
+  ENUM_STRING = "WI_B_06_CLOUD_MOUNTAIN_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_06_CLOUD_MOUNTAIN_06,
+  ENUM_STRING = "WI_B_06_CLOUD_MOUNTAIN_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_06_CLOUD_MOUNTAIN_03,
+  ENUM_STRING = "WI_B_06_CLOUD_MOUNTAIN_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_06_CLOUD_MOUNTAIN_04,
+  ENUM_STRING = "WI_B_06_CLOUD_MOUNTAIN_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_06_MAPLE_01,
+  ENUM_STRING = "WI_C_06_MAPLE_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_06_MAPLE_02,
+  ENUM_STRING = "WI_C_06_MAPLE_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_06_MAPLE_03,
+  ENUM_STRING = "WI_C_06_MAPLE_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_06_MAPLE_04,
+  ENUM_STRING = "WI_C_06_MAPLE_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_01_ENTRA_01,
+  ENUM_STRING = "WI_C_01_ENTRA_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_01_ENTRA_02,
+  ENUM_STRING = "WI_C_01_ENTRA_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_01_ENTRA_03,
+  ENUM_STRING = "WI_C_01_ENTRA_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_01_ENTRA_04,
+  ENUM_STRING = "WI_C_01_ENTRA_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_03_ABYSS_01,
+  ENUM_STRING = "WI_C_03_ABYSS_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_03_ABYSS_02,
+  ENUM_STRING = "WI_C_03_ABYSS_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_03_ABYSS_03,
+  ENUM_STRING = "WI_C_03_ABYSS_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_03_ABYSS_04,
+  ENUM_STRING = "WI_C_03_ABYSS_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_02_CAVITY_01,
+  ENUM_STRING = "WI_C_02_CAVITY_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_02_CAVITY_02,
+  ENUM_STRING = "WI_C_02_CAVITY_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_02_CAVITY_03,
+  ENUM_STRING = "WI_C_02_CAVITY_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_02_CAVITY_04,
+  ENUM_STRING = "WI_C_02_CAVITY_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_02_CAVITY_05,
+  ENUM_STRING = "WI_C_02_CAVITY_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_04_SEAL_01,
+  ENUM_STRING = "WI_C_04_SEAL_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_04_SEAL_02,
+  ENUM_STRING = "WI_C_04_SEAL_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_04_SEAL_03,
+  ENUM_STRING = "WI_C_04_SEAL_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_04_SEAL_04,
+  ENUM_STRING = "WI_C_04_SEAL_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_04_SEAL_05,
+  ENUM_STRING = "WI_C_04_SEAL_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_04_SEAL_05_1,
+  ENUM_STRING = "WI_C_04_SEAL_05_1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_04_SEAL_05_2,
+  ENUM_STRING = "WI_C_04_SEAL_05_2"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_04_SEAL_05_3,
+  ENUM_STRING = "WI_C_04_SEAL_05_3"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_05_EXIT_01,
+  ENUM_STRING = "WI_C_05_EXIT_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_05_EXIT_02,
+  ENUM_STRING = "WI_C_05_EXIT_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_05_EXIT_03,
+  ENUM_STRING = "WI_C_05_EXIT_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_05_EXIT_04,
+  ENUM_STRING = "WI_C_05_EXIT_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_05_EXIT_05,
+  ENUM_STRING = "WI_C_05_EXIT_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_S_SECRET_MALI_01,
+  ENUM_STRING = "WI_S_SECRET_MALI_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_01_TOWER_01,
+  ENUM_STRING = "WI_D_01_TOWER_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_01_TOWER_BOSS,
+  ENUM_STRING = "WI_D_01_TOWER_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_02_TOWER_01,
+  ENUM_STRING = "WI_D_02_TOWER_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_02_TOWER_BOSS,
+  ENUM_STRING = "WI_D_02_TOWER_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_03_TOWER_01,
+  ENUM_STRING = "WI_D_03_TOWER_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_03_TOWER_02,
+  ENUM_STRING = "WI_D_03_TOWER_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_03_TOWER_BOSS,
+  ENUM_STRING = "WI_D_03_TOWER_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_04_TOWER_01,
+  ENUM_STRING = "WI_D_04_TOWER_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_04_TOWER_02,
+  ENUM_STRING = "WI_D_04_TOWER_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_04_TOWER_BOSS,
+  ENUM_STRING = "WI_D_04_TOWER_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_05_TOWER_01,
+  ENUM_STRING = "WI_D_05_TOWER_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_05_TOWER_02,
+  ENUM_STRING = "WI_D_05_TOWER_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_05_TOWER_03,
+  ENUM_STRING = "WI_D_05_TOWER_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_05_TOWER_04,
+  ENUM_STRING = "WI_D_05_TOWER_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_05_TOWER_05,
+  ENUM_STRING = "WI_D_05_TOWER_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_05_TOWER_06,
+  ENUM_STRING = "WI_D_05_TOWER_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_D_05_TOWER_BOSS,
+  ENUM_STRING = "WI_D_05_TOWER_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_01_GORGE_01,
+  ENUM_STRING = "WI_E_01_GORGE_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_01_GORGE_02,
+  ENUM_STRING = "WI_E_01_GORGE_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_01_GORGE_03,
+  ENUM_STRING = "WI_E_01_GORGE_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_01_GORGE_04,
+  ENUM_STRING = "WI_E_01_GORGE_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_01_GORGE_05,
+  ENUM_STRING = "WI_E_01_GORGE_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_01_GORGE_06,
+  ENUM_STRING = "WI_E_01_GORGE_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_02_MAZE_01,
+  ENUM_STRING = "WI_E_02_MAZE_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_02_MAZE_02,
+  ENUM_STRING = "WI_E_02_MAZE_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_02_MAZE_03,
+  ENUM_STRING = "WI_E_02_MAZE_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_02_MAZE_04,
+  ENUM_STRING = "WI_E_02_MAZE_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_02_MAZE_05,
+  ENUM_STRING = "WI_E_02_MAZE_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_02_MAZE_06,
+  ENUM_STRING = "WI_E_02_MAZE_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_02_MAZE_07,
+  ENUM_STRING = "WI_E_02_MAZE_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_03_FOUNT_01,
+  ENUM_STRING = "WI_E_03_FOUNT_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_03_FOUNT_02,
+  ENUM_STRING = "WI_E_03_FOUNT_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_03_FOUNT_03,
+  ENUM_STRING = "WI_E_03_FOUNT_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_03_FOUNT_04,
+  ENUM_STRING = "WI_E_03_FOUNT_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_03_FOUNT_05,
+  ENUM_STRING = "WI_E_03_FOUNT_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_03_FOUNT_06,
+  ENUM_STRING = "WI_E_03_FOUNT_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_03_FOUNT_07,
+  ENUM_STRING = "WI_E_03_FOUNT_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_03_FOUNT_08,
+  ENUM_STRING = "WI_E_03_FOUNT_08"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_04_CLIFF_01,
+  ENUM_STRING = "WI_E_04_CLIFF_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_04_CLIFF_02,
+  ENUM_STRING = "WI_E_04_CLIFF_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_04_CLIFF_03,
+  ENUM_STRING = "WI_E_04_CLIFF_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_04_CLIFF_04,
+  ENUM_STRING = "WI_E_04_CLIFF_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_04_CLIFF_05,
+  ENUM_STRING = "WI_E_04_CLIFF_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_04_CLIFF_06,
+  ENUM_STRING = "WI_E_04_CLIFF_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_04_CLIFF_07,
+  ENUM_STRING = "WI_E_04_CLIFF_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_04_CLIFF_08,
+  ENUM_STRING = "WI_E_04_CLIFF_08"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_05_OVERBRIGE_01,
+  ENUM_STRING = "WI_E_05_OVERBRIGE_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_05_OVERBRIGE_02,
+  ENUM_STRING = "WI_E_05_OVERBRIGE_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_05_OVERBRIGE_03,
+  ENUM_STRING = "WI_E_05_OVERBRIGE_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_05_OVERBRIGE_04,
+  ENUM_STRING = "WI_E_05_OVERBRIGE_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_06_HOLLOW_01,
+  ENUM_STRING = "WI_E_06_HOLLOW_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_06_HOLLOW_02,
+  ENUM_STRING = "WI_E_06_HOLLOW_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_06_HOLLOW_03,
+  ENUM_STRING = "WI_E_06_HOLLOW_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_06_HOLLOW_04,
+  ENUM_STRING = "WI_E_06_HOLLOW_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_E_06_HOLLOW_05,
+  ENUM_STRING = "WI_E_06_HOLLOW_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_01_MINYUAN_01,
+  ENUM_STRING = "WI_F_01_MINYUAN_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_01_MINYUAN_02,
+  ENUM_STRING = "WI_F_01_MINYUAN_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_01_MINYUAN_03,
+  ENUM_STRING = "WI_F_01_MINYUAN_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_01_MINYUAN_04,
+  ENUM_STRING = "WI_F_01_MINYUAN_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_01_MINYUAN_05,
+  ENUM_STRING = "WI_F_01_MINYUAN_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_01_MINYUAN_06,
+  ENUM_STRING = "WI_F_01_MINYUAN_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_01_MINYUAN_07,
+  ENUM_STRING = "WI_F_01_MINYUAN_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_02_SLOPE_01,
+  ENUM_STRING = "WI_F_02_SLOPE_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_02_SLOPE_02,
+  ENUM_STRING = "WI_F_02_SLOPE_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_02_SLOPE_03,
+  ENUM_STRING = "WI_F_02_SLOPE_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_02_SLOPE_04,
+  ENUM_STRING = "WI_F_02_SLOPE_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_02_SLOPE_05,
+  ENUM_STRING = "WI_F_02_SLOPE_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_02_SLOPE_06,
+  ENUM_STRING = "WI_F_02_SLOPE_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_02_SLOPE_07,
+  ENUM_STRING = "WI_F_02_SLOPE_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_03_CAPM_01,
+  ENUM_STRING = "WI_F_03_CAPM_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_03_CAPM_02,
+  ENUM_STRING = "WI_F_03_CAPM_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_03_CAPM_03,
+  ENUM_STRING = "WI_F_03_CAPM_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_03_CAPM_04,
+  ENUM_STRING = "WI_F_03_CAPM_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_03_CAPM_05,
+  ENUM_STRING = "WI_F_03_CAPM_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_03_CAPM_06,
+  ENUM_STRING = "WI_F_03_CAPM_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_03_CAPM_07,
+  ENUM_STRING = "WI_F_03_CAPM_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_03_CAPM_08,
+  ENUM_STRING = "WI_F_03_CAPM_08"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_04_SNOW_01,
+  ENUM_STRING = "WI_F_04_SNOW_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_04_SNOW_02,
+  ENUM_STRING = "WI_F_04_SNOW_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_04_SNOW_03,
+  ENUM_STRING = "WI_F_04_SNOW_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_04_SNOW_04,
+  ENUM_STRING = "WI_F_04_SNOW_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_04_SNOW_05,
+  ENUM_STRING = "WI_F_04_SNOW_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_04_SNOW_06,
+  ENUM_STRING = "WI_F_04_SNOW_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_04_SNOW_07,
+  ENUM_STRING = "WI_F_04_SNOW_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_04_SNOW_BOSS,
+  ENUM_STRING = "WI_F_04_SNOW_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_M_MARIO_01,
+  ENUM_STRING = "WI_M_MARIO_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_M_MARIO_02,
+  ENUM_STRING = "WI_M_MARIO_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_M_MARIO_BOSS,
+  ENUM_STRING = "WI_M_MARIO_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_G_01_JITAN_01,
+  ENUM_STRING = "WI_G_01_JITAN_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_05_ICEHOLE_01,
+  ENUM_STRING = "WI_F_05_ICEHOLE_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_05_ICEHOLE_02,
+  ENUM_STRING = "WI_F_05_ICEHOLE_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_05_ICEHOLE_03,
+  ENUM_STRING = "WI_F_05_ICEHOLE_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_05_ICEHOLE_04,
+  ENUM_STRING = "WI_F_05_ICEHOLE_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_05_ICEHOLE_05,
+  ENUM_STRING = "WI_F_05_ICEHOLE_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_05_ICEHOLE_06,
+  ENUM_STRING = "WI_F_05_ICEHOLE_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_05_ICEHOLE_07,
+  ENUM_STRING = "WI_F_05_ICEHOLE_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_F_05_ICEHOLE_BOSS,
+  ENUM_STRING = "WI_F_05_ICEHOLE_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_Y_THANK,
+  ENUM_STRING = "WI_Y_THANK"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_DARKABYSS,
+  ENUM_STRING = "WI_C_DARKABYSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_DARKABYSS_01,
+  ENUM_STRING = "WI_C_DARKABYSS_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_DARKABYSS_02,
+  ENUM_STRING = "WI_C_DARKABYSS_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_Y_QIXI,
+  ENUM_STRING = "WI_Y_QIXI"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_Y_CHUNJIE,
+  ENUM_STRING = "WI_Y_CHUNJIE"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_01_WILDERNESS_01,
+  ENUM_STRING = "WI_H_01_WILDERNESS_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_01_WILDERNESS_02,
+  ENUM_STRING = "WI_H_01_WILDERNESS_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_01_WILDERNESS_03,
+  ENUM_STRING = "WI_H_01_WILDERNESS_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_01_WILDERNESS_04,
+  ENUM_STRING = "WI_H_01_WILDERNESS_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_01_WILDERNESS_05,
+  ENUM_STRING = "WI_H_01_WILDERNESS_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_01_WILDERNESS_BOSS,
+  ENUM_STRING = "WI_H_01_WILDERNESS_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_02_FATE_01,
+  ENUM_STRING = "WI_H_02_FATE_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_02_FATE_02,
+  ENUM_STRING = "WI_H_02_FATE_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_02_FATE_03,
+  ENUM_STRING = "WI_H_02_FATE_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_02_FATE_04,
+  ENUM_STRING = "WI_H_02_FATE_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_02_FATE_05,
+  ENUM_STRING = "WI_H_02_FATE_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_02_FATE_BOSS,
+  ENUM_STRING = "WI_H_02_FATE_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_03_TOWER_01,
+  ENUM_STRING = "WI_H_03_TOWER_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_03_TOWER_02,
+  ENUM_STRING = "WI_H_03_TOWER_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_03_TOWER_03,
+  ENUM_STRING = "WI_H_03_TOWER_03"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_03_TOWER_04,
+  ENUM_STRING = "WI_H_03_TOWER_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_03_TOWER_BOSS,
+  ENUM_STRING = "WI_H_03_TOWER_BOSS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_04_CHAOS_01,
+  ENUM_STRING = "WI_H_04_CHAOS_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_04_CHAOS_02,
+  ENUM_STRING = "WI_H_04_CHAOS_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_H_RIFT,
+  ENUM_STRING = "WI_H_RIFT"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_Y_XMAS,
+  ENUM_STRING = "WI_Y_XMAS"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_PK_01,
+  ENUM_STRING = "WI_A_PK_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_PK_02,
+  ENUM_STRING = "WI_A_PK_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_PK_04,
+  ENUM_STRING = "WI_A_PK_04"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_PK_05,
+  ENUM_STRING = "WI_A_PK_05"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_PK_06,
+  ENUM_STRING = "WI_B_PK_06"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_PK_07,
+  ENUM_STRING = "WI_A_PK_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_A_PK_08,
+  ENUM_STRING = "WI_A_PK_08"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_C_PK_01,
+  ENUM_STRING = "WI_C_PK_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_B_PK_07,
+  ENUM_STRING = "WI_B_PK_07"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_PK_overbrige_01,
+  ENUM_STRING = "WI_PK_overbrige_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_PK_MAZE_01,
+  ENUM_STRING = "WI_PK_MAZE_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_PK_TOWER_01,
+  ENUM_STRING = "WI_PK_TOWER_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_PK_LEITAI,
+  ENUM_STRING = "WI_PK_LEITAI"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_PK_FATE,
+  ENUM_STRING = "WI_PK_FATE"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_PVP_HOLD_01,
+  ENUM_STRING = "WI_PVP_HOLD_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_PVP_HOLD_02,
+  ENUM_STRING = "WI_PVP_HOLD_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_TUTORIAL,
+  ENUM_STRING = "WI_TUTORIAL"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_TRAINING_CENTER_STAGE1,
+  ENUM_STRING = "WI_TRAINING_CENTER_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_TRAINING_CENTER_STAGE2,
+  ENUM_STRING = "WI_TRAINING_CENTER_STAGE2"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_TRAINING_CENTER_STAGE3,
+  ENUM_STRING = "WI_TRAINING_CENTER_STAGE3"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_TRAINING_CENTER_STAGE4,
+  ENUM_STRING = "WI_TRAINING_CENTER_STAGE4"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_WORLDTOOL_DEFAULT,
+  ENUM_STRING = "WI_WORLDTOOL_DEFAULT"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_SQUARE,
+  ENUM_STRING = "WI_SQUARE"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_SQUARE_MEDIUM,
+  ENUM_STRING = "WI_SQUARE_MEDIUM"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_SQUARE_WIDE,
+  ENUM_STRING = "WI_SQUARE_WIDE"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_LOADING_01,
+  ENUM_STRING = "WI_LOADING_01"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_LOADING_02,
+  ENUM_STRING = "WI_LOADING_02"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_SQUARE_WEDDING_STAGE1,
+  ENUM_STRING = "WI_SQUARE_WEDDING_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_VILLAGE_TAOYUAN_STAGE1,
+  ENUM_STRING = "WI_VILLAGE_TAOYUAN_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_VILLAGE_QINGPU_STAGE1,
+  ENUM_STRING = "WI_VILLAGE_QINGPU_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_VILLAGE_BUZHOUSHAN_STAGE1,
+  ENUM_STRING = "WI_VILLAGE_BUZHOUSHAN_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_VILLAGE_LUOCHUAN_STAGE1,
+  ENUM_STRING = "WI_VILLAGE_LUOCHUAN_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_VILLAGE_BEILING_STAGE1,
+  ENUM_STRING = "WI_VILLAGE_BEILING_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_TAOYUANDONG_STAGE1,
+  ENUM_STRING = "WI_FIELD_TAOYUANDONG_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_TAOYUAN_STAGE1,
+  ENUM_STRING = "WI_FIELD_TAOYUAN_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_QINGPU_STAGE1,
+  ENUM_STRING = "WI_FIELD_QINGPU_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_BUZHOUSHAN_STAGE1,
+  ENUM_STRING = "WI_FIELD_BUZHOUSHAN_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_LUOCHUAN_STAGE1,
+  ENUM_STRING = "WI_FIELD_LUOCHUAN_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_BEILING_STAGE1,
+  ENUM_STRING = "WI_FIELD_BEILING_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_HELLTOWER_STAGE1,
+  ENUM_STRING = "WI_FIELD_HELLTOWER_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_HOSTEL_STAGE1,
+  ENUM_STRING = "WI_HOSTEL_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_MENGHUANDAO_STAGE1,
+  ENUM_STRING = "WI_FIELD_MENGHUANDAO_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_YINGYINHU_STAGE1,
+  ENUM_STRING = "WI_FIELD_YINGYINHU_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_VILLAGE_XIANYUCHENG_STAGE1,
+  ENUM_STRING = "WI_VILLAGE_XIANYUCHENG_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FIELD_MOYU_STAGE1,
+  ENUM_STRING = "WI_FIELD_MOYU_STAGE1"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_FASHI,
+  ENUM_STRING = "WI_FASHI"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_GONGSHOU,
+  ENUM_STRING = "WI_GONGSHOU"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_ZHANSHI,
+  ENUM_STRING = "WI_ZHANSHI"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_CHOOSE_CHAR_MUSIC,
+  ENUM_STRING = "WI_CHOOSE_CHAR_MUSIC"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_MOWUZHE,
+  ENUM_STRING = "WI_MOWUZHE"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_YAOHU,
+  ENUM_STRING = "WI_YAOHU"
+})
+g_pEnumManager:AddWorldEnumData_LUA({
+  ENUM_ID = WORLD_ID.WI_END,
+  ENUM_STRING = "WI_END"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE,
+  ENUM_STRING = "NUI_NONE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_SMALL_0,
+  ENUM_STRING = "NUI_BEE_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_SMALL_1,
+  ENUM_STRING = "NUI_BEE_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_SMALL_2,
+  ENUM_STRING = "NUI_BEE_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_SMALL_3,
+  ENUM_STRING = "NUI_BEE_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_SMALL_4,
+  ENUM_STRING = "NUI_BEE_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_POISON_0,
+  ENUM_STRING = "NUI_BEE_POISON_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_POISON_1,
+  ENUM_STRING = "NUI_BEE_POISON_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_POISON_2,
+  ENUM_STRING = "NUI_BEE_POISON_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_POISON_3,
+  ENUM_STRING = "NUI_BEE_POISON_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_POISON_4,
+  ENUM_STRING = "NUI_BEE_POISON_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_BOMB_1,
+  ENUM_STRING = "NUI_BEE_BOMB_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_BOMB_2,
+  ENUM_STRING = "NUI_BEE_BOMB_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_BOMB_3,
+  ENUM_STRING = "NUI_BEE_BOMB_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_BOMB_4,
+  ENUM_STRING = "NUI_BEE_BOMB_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_ICE_0,
+  ENUM_STRING = "NUI_BEE_ICE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_ICE_1,
+  ENUM_STRING = "NUI_BEE_ICE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_ICE_2,
+  ENUM_STRING = "NUI_BEE_ICE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_ICE_3,
+  ENUM_STRING = "NUI_BEE_ICE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_ICE_4,
+  ENUM_STRING = "NUI_BEE_ICE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_DARK_1,
+  ENUM_STRING = "NUI_BEE_DARK_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_DARK_2,
+  ENUM_STRING = "NUI_BEE_DARK_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_DARK_3,
+  ENUM_STRING = "NUI_BEE_DARK_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_DARK_4,
+  ENUM_STRING = "NUI_BEE_DARK_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_THUG_0,
+  ENUM_STRING = "NUI_BEE_THUG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_THUG_1,
+  ENUM_STRING = "NUI_BEE_THUG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_THUG_2,
+  ENUM_STRING = "NUI_BEE_THUG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_THUG_3,
+  ENUM_STRING = "NUI_BEE_THUG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_THUG_4,
+  ENUM_STRING = "NUI_BEE_THUG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_SMALL_0,
+  ENUM_STRING = "NUI_BEEHOUSE_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_SMALL_1,
+  ENUM_STRING = "NUI_BEEHOUSE_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_SMALL_2,
+  ENUM_STRING = "NUI_BEEHOUSE_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_SMALL_3,
+  ENUM_STRING = "NUI_BEEHOUSE_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_SMALL_4,
+  ENUM_STRING = "NUI_BEEHOUSE_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_POISON_0,
+  ENUM_STRING = "NUI_BEEHOUSE_POISON_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_POISON_1,
+  ENUM_STRING = "NUI_BEEHOUSE_POISON_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_POISON_2,
+  ENUM_STRING = "NUI_BEEHOUSE_POISON_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_POISON_3,
+  ENUM_STRING = "NUI_BEEHOUSE_POISON_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_POISON_4,
+  ENUM_STRING = "NUI_BEEHOUSE_POISON_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_BOMB_1,
+  ENUM_STRING = "NUI_BEEHOUSE_BOMB_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_BOMB_2,
+  ENUM_STRING = "NUI_BEEHOUSE_BOMB_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_BOMB_3,
+  ENUM_STRING = "NUI_BEEHOUSE_BOMB_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_BOMB_4,
+  ENUM_STRING = "NUI_BEEHOUSE_BOMB_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_ICE_0,
+  ENUM_STRING = "NUI_BEEHOUSE_ICE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_ICE_1,
+  ENUM_STRING = "NUI_BEEHOUSE_ICE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_ICE_2,
+  ENUM_STRING = "NUI_BEEHOUSE_ICE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_ICE_3,
+  ENUM_STRING = "NUI_BEEHOUSE_ICE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_ICE_4,
+  ENUM_STRING = "NUI_BEEHOUSE_ICE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_DARK_0,
+  ENUM_STRING = "NUI_BEEHOUSE_DARK_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_DARK_1,
+  ENUM_STRING = "NUI_BEEHOUSE_DARK_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_DARK_2,
+  ENUM_STRING = "NUI_BEEHOUSE_DARK_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_DARK_3,
+  ENUM_STRING = "NUI_BEEHOUSE_DARK_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_DARK_4,
+  ENUM_STRING = "NUI_BEEHOUSE_DARK_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_SMALL_0,
+  ENUM_STRING = "NUI_BEEPRETEND_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_SMALL_1,
+  ENUM_STRING = "NUI_BEEPRETEND_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_SMALL_2,
+  ENUM_STRING = "NUI_BEEPRETEND_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_SMALL_3,
+  ENUM_STRING = "NUI_BEEPRETEND_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_SMALL_4,
+  ENUM_STRING = "NUI_BEEPRETEND_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_POISON_0,
+  ENUM_STRING = "NUI_BEEPRETEND_POISON_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_POISON_1,
+  ENUM_STRING = "NUI_BEEPRETEND_POISON_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_POISON_2,
+  ENUM_STRING = "NUI_BEEPRETEND_POISON_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_POISON_3,
+  ENUM_STRING = "NUI_BEEPRETEND_POISON_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_POISON_4,
+  ENUM_STRING = "NUI_BEEPRETEND_POISON_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_BOMB_0,
+  ENUM_STRING = "NUI_BEEPRETEND_BOMB_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_BOMB_1,
+  ENUM_STRING = "NUI_BEEPRETEND_BOMB_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_BOMB_2,
+  ENUM_STRING = "NUI_BEEPRETEND_BOMB_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_BOMB_3,
+  ENUM_STRING = "NUI_BEEPRETEND_BOMB_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_BOMB_4,
+  ENUM_STRING = "NUI_BEEPRETEND_BOMB_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_ICE_0,
+  ENUM_STRING = "NUI_BEEPRETEND_ICE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_ICE_1,
+  ENUM_STRING = "NUI_BEEPRETEND_ICE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_ICE_2,
+  ENUM_STRING = "NUI_BEEPRETEND_ICE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_ICE_3,
+  ENUM_STRING = "NUI_BEEPRETEND_ICE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_ICE_4,
+  ENUM_STRING = "NUI_BEEPRETEND_ICE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_DARK_0,
+  ENUM_STRING = "NUI_BEEPRETEND_DARK_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_DARK_1,
+  ENUM_STRING = "NUI_BEEPRETEND_DARK_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_DARK_2,
+  ENUM_STRING = "NUI_BEEPRETEND_DARK_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_DARK_3,
+  ENUM_STRING = "NUI_BEEPRETEND_DARK_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEPRETEND_DARK_4,
+  ENUM_STRING = "NUI_BEEPRETEND_DARK_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_KING_0,
+  ENUM_STRING = "NUI_BEEHOUSE_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SMALL_0,
+  ENUM_STRING = "NUI_MONKEY_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SMALL_1,
+  ENUM_STRING = "NUI_MONKEY_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SMALL_2,
+  ENUM_STRING = "NUI_MONKEY_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SMALL_3,
+  ENUM_STRING = "NUI_MONKEY_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SMALL_4,
+  ENUM_STRING = "NUI_MONKEY_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BIG_0,
+  ENUM_STRING = "NUI_MONKEY_BIG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BIG_1,
+  ENUM_STRING = "NUI_MONKEY_BIG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BIG_2,
+  ENUM_STRING = "NUI_MONKEY_BIG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BIG_3,
+  ENUM_STRING = "NUI_MONKEY_BIG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BIG_4,
+  ENUM_STRING = "NUI_MONKEY_BIG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_WHITE_0,
+  ENUM_STRING = "NUI_MONKEY_WHITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_WHITE_1,
+  ENUM_STRING = "NUI_MONKEY_WHITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_WHITE_2,
+  ENUM_STRING = "NUI_MONKEY_WHITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_WHITE_3,
+  ENUM_STRING = "NUI_MONKEY_WHITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_WHITE_4,
+  ENUM_STRING = "NUI_MONKEY_WHITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_APPLE_0,
+  ENUM_STRING = "NUI_MONKEY_APPLE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_APPLE_1,
+  ENUM_STRING = "NUI_MONKEY_APPLE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_APPLE_2,
+  ENUM_STRING = "NUI_MONKEY_APPLE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_APPLE_3,
+  ENUM_STRING = "NUI_MONKEY_APPLE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_APPLE_4,
+  ENUM_STRING = "NUI_MONKEY_APPLE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BOMB_0,
+  ENUM_STRING = "NUI_MONKEY_BOMB_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BOMB_1,
+  ENUM_STRING = "NUI_MONKEY_BOMB_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BOMB_2,
+  ENUM_STRING = "NUI_MONKEY_BOMB_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BOMB_3,
+  ENUM_STRING = "NUI_MONKEY_BOMB_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BOMB_4,
+  ENUM_STRING = "NUI_MONKEY_BOMB_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_DREAD_0,
+  ENUM_STRING = "NUI_MONKEY_DREAD_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_DREAD_1,
+  ENUM_STRING = "NUI_MONKEY_DREAD_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_DREAD_2,
+  ENUM_STRING = "NUI_MONKEY_DREAD_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_DREAD_3,
+  ENUM_STRING = "NUI_MONKEY_DREAD_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_DREAD_4,
+  ENUM_STRING = "NUI_MONKEY_DREAD_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_MANIA_0,
+  ENUM_STRING = "NUI_MONKEY_MANIA_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_MANIA_1,
+  ENUM_STRING = "NUI_MONKEY_MANIA_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_MANIA_2,
+  ENUM_STRING = "NUI_MONKEY_MANIA_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_MANIA_3,
+  ENUM_STRING = "NUI_MONKEY_MANIA_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_MANIA_4,
+  ENUM_STRING = "NUI_MONKEY_MANIA_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SOLDER_0,
+  ENUM_STRING = "NUI_MONKEY_SOLDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SOLDER_1,
+  ENUM_STRING = "NUI_MONKEY_SOLDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SOLDER_2,
+  ENUM_STRING = "NUI_MONKEY_SOLDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SOLDER_3,
+  ENUM_STRING = "NUI_MONKEY_SOLDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SOLDER_4,
+  ENUM_STRING = "NUI_MONKEY_SOLDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GUARD_0,
+  ENUM_STRING = "NUI_MONKEY_GUARD_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GUARD_1,
+  ENUM_STRING = "NUI_MONKEY_GUARD_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GUARD_2,
+  ENUM_STRING = "NUI_MONKEY_GUARD_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GUARD_3,
+  ENUM_STRING = "NUI_MONKEY_GUARD_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GUARD_4,
+  ENUM_STRING = "NUI_MONKEY_GUARD_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GIANT_0,
+  ENUM_STRING = "NUI_MONKEY_GIANT_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PANGHOU_0,
+  ENUM_STRING = "NUI_PANGHOU_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PANGHOU_1,
+  ENUM_STRING = "NUI_PANGHOU_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PANGHOU_2,
+  ENUM_STRING = "NUI_PANGHOU_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PANGHOU_3,
+  ENUM_STRING = "NUI_PANGHOU_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PANGHOU_4,
+  ENUM_STRING = "NUI_PANGHOU_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_FIRE_0,
+  ENUM_STRING = "NUI_MONKEY_FIRE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_FIRE_1,
+  ENUM_STRING = "NUI_MONKEY_FIRE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_FIRE_2,
+  ENUM_STRING = "NUI_MONKEY_FIRE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_FIRE_3,
+  ENUM_STRING = "NUI_MONKEY_FIRE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_FIRE_4,
+  ENUM_STRING = "NUI_MONKEY_FIRE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ICE_0,
+  ENUM_STRING = "NUI_MONKEY_ICE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ICE_1,
+  ENUM_STRING = "NUI_MONKEY_ICE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ICE_2,
+  ENUM_STRING = "NUI_MONKEY_ICE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ICE_3,
+  ENUM_STRING = "NUI_MONKEY_ICE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ICE_4,
+  ENUM_STRING = "NUI_MONKEY_ICE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_EARTH_0,
+  ENUM_STRING = "NUI_MONKEY_EARTH_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_EARTH_1,
+  ENUM_STRING = "NUI_MONKEY_EARTH_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_EARTH_2,
+  ENUM_STRING = "NUI_MONKEY_EARTH_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_EARTH_3,
+  ENUM_STRING = "NUI_MONKEY_EARTH_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_EARTH_4,
+  ENUM_STRING = "NUI_MONKEY_EARTH_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_HEADER_0,
+  ENUM_STRING = "NUI_MONKEY_HEADER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_HEADER_2_4,
+  ENUM_STRING = "NUI_MONKEY_HEADER_2_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_HEADER_3_4,
+  ENUM_STRING = "NUI_MONKEY_HEADER_3_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SIXEAR_0,
+  ENUM_STRING = "NUI_MONKEY_SIXEAR_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_KING_0,
+  ENUM_STRING = "NUI_MONKEY_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_KING_1,
+  ENUM_STRING = "NUI_MONKEY_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_KING_2,
+  ENUM_STRING = "NUI_MONKEY_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_KING_3,
+  ENUM_STRING = "NUI_MONKEY_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_KING_4,
+  ENUM_STRING = "NUI_MONKEY_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ELDER_0,
+  ENUM_STRING = "NUI_MONKEY_ELDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ELDER_1,
+  ENUM_STRING = "NUI_MONKEY_ELDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ELDER_2,
+  ENUM_STRING = "NUI_MONKEY_ELDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ELDER_3,
+  ENUM_STRING = "NUI_MONKEY_ELDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ELDER_4,
+  ENUM_STRING = "NUI_MONKEY_ELDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_SMALL_1,
+  ENUM_STRING = "NUI_BANBOO_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_SMALL_2,
+  ENUM_STRING = "NUI_BANBOO_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_SMALL_3,
+  ENUM_STRING = "NUI_BANBOO_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_SMALL_4,
+  ENUM_STRING = "NUI_BANBOO_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_FLOWER_0,
+  ENUM_STRING = "NUI_BANBOO_FLOWER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_FLOWER_1,
+  ENUM_STRING = "NUI_BANBOO_FLOWER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_FLOWER_2,
+  ENUM_STRING = "NUI_BANBOO_FLOWER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_FLOWER_3,
+  ENUM_STRING = "NUI_BANBOO_FLOWER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_FLOWER_4,
+  ENUM_STRING = "NUI_BANBOO_FLOWER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_OLD_0,
+  ENUM_STRING = "NUI_BANBOO_OLD_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_OLD_1,
+  ENUM_STRING = "NUI_BANBOO_OLD_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_OLD_2,
+  ENUM_STRING = "NUI_BANBOO_OLD_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_OLD_3,
+  ENUM_STRING = "NUI_BANBOO_OLD_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_OLD_4,
+  ENUM_STRING = "NUI_BANBOO_OLD_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_SMALL_0,
+  ENUM_STRING = "NUI_BAT_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_SMALL_1,
+  ENUM_STRING = "NUI_BAT_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_SMALL_2,
+  ENUM_STRING = "NUI_BAT_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_SMALL_3,
+  ENUM_STRING = "NUI_BAT_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_SMALL_4,
+  ENUM_STRING = "NUI_BAT_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_VAMPIRE_0,
+  ENUM_STRING = "NUI_BAT_VAMPIRE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_VAMPIRE_1,
+  ENUM_STRING = "NUI_BAT_VAMPIRE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_VAMPIRE_2,
+  ENUM_STRING = "NUI_BAT_VAMPIRE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_VAMPIRE_3,
+  ENUM_STRING = "NUI_BAT_VAMPIRE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_VAMPIRE_4,
+  ENUM_STRING = "NUI_BAT_VAMPIRE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_CRAZY_0,
+  ENUM_STRING = "NUI_BAT_CRAZY_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_CRAZY_1,
+  ENUM_STRING = "NUI_BAT_CRAZY_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_CRAZY_2,
+  ENUM_STRING = "NUI_BAT_CRAZY_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_CRAZY_3,
+  ENUM_STRING = "NUI_BAT_CRAZY_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_CRAZY_4,
+  ENUM_STRING = "NUI_BAT_CRAZY_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KILLER_0,
+  ENUM_STRING = "NUI_BAT_KILLER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KILLER_1,
+  ENUM_STRING = "NUI_BAT_KILLER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KILLER_2,
+  ENUM_STRING = "NUI_BAT_KILLER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KILLER_3,
+  ENUM_STRING = "NUI_BAT_KILLER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KILLER_4,
+  ENUM_STRING = "NUI_BAT_KILLER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_HIDE_0,
+  ENUM_STRING = "NUI_BAT_HIDE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_HIDE_1,
+  ENUM_STRING = "NUI_BAT_HIDE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_HIDE_2,
+  ENUM_STRING = "NUI_BAT_HIDE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_HIDE_3,
+  ENUM_STRING = "NUI_BAT_HIDE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_HIDE_4,
+  ENUM_STRING = "NUI_BAT_HIDE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SMALL_0,
+  ENUM_STRING = "NUI_RABBIT_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SMALL_1,
+  ENUM_STRING = "NUI_RABBIT_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SMALL_2,
+  ENUM_STRING = "NUI_RABBIT_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SMALL_3,
+  ENUM_STRING = "NUI_RABBIT_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SMALL_4,
+  ENUM_STRING = "NUI_RABBIT_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_BOW_0,
+  ENUM_STRING = "NUI_RABBIT_BOW_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_BOW_1,
+  ENUM_STRING = "NUI_RABBIT_BOW_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_BOW_2,
+  ENUM_STRING = "NUI_RABBIT_BOW_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_BOW_3,
+  ENUM_STRING = "NUI_RABBIT_BOW_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_BOW_4,
+  ENUM_STRING = "NUI_RABBIT_BOW_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SOLDIER_0,
+  ENUM_STRING = "NUI_RABBIT_SOLDIER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SOLDIER_1,
+  ENUM_STRING = "NUI_RABBIT_SOLDIER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SOLDIER_2,
+  ENUM_STRING = "NUI_RABBIT_SOLDIER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SOLDIER_3,
+  ENUM_STRING = "NUI_RABBIT_SOLDIER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SOLDIER_4,
+  ENUM_STRING = "NUI_RABBIT_SOLDIER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_GUARD_0,
+  ENUM_STRING = "NUI_RABBIT_GUARD_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_GUARD_1,
+  ENUM_STRING = "NUI_RABBIT_GUARD_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_GUARD_2,
+  ENUM_STRING = "NUI_RABBIT_GUARD_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_GUARD_3,
+  ENUM_STRING = "NUI_RABBIT_GUARD_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_GUARD_4,
+  ENUM_STRING = "NUI_RABBIT_GUARD_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_LANCE_0,
+  ENUM_STRING = "NUI_RABBIT_LANCE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_LANCE_1,
+  ENUM_STRING = "NUI_RABBIT_LANCE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_LANCE_2,
+  ENUM_STRING = "NUI_RABBIT_LANCE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_LANCE_3,
+  ENUM_STRING = "NUI_RABBIT_LANCE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_LANCE_4,
+  ENUM_STRING = "NUI_RABBIT_LANCE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGIC_0,
+  ENUM_STRING = "NUI_RABBIT_MAGIC_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGIC_1,
+  ENUM_STRING = "NUI_RABBIT_MAGIC_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGIC_2,
+  ENUM_STRING = "NUI_RABBIT_MAGIC_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGIC_3,
+  ENUM_STRING = "NUI_RABBIT_MAGIC_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGIC_4,
+  ENUM_STRING = "NUI_RABBIT_MAGIC_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_IMPROBITY_0,
+  ENUM_STRING = "NUI_RABBIT_IMPROBITY_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_IMPROBITY_1,
+  ENUM_STRING = "NUI_RABBIT_IMPROBITY_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_IMPROBITY_2,
+  ENUM_STRING = "NUI_RABBIT_IMPROBITY_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_IMPROBITY_3,
+  ENUM_STRING = "NUI_RABBIT_IMPROBITY_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_IMPROBITY_4,
+  ENUM_STRING = "NUI_RABBIT_IMPROBITY_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_POWWOW_0,
+  ENUM_STRING = "NUI_RABBIT_POWWOW_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_POWWOW_1,
+  ENUM_STRING = "NUI_RABBIT_POWWOW_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_POWWOW_2,
+  ENUM_STRING = "NUI_RABBIT_POWWOW_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_POWWOW_3,
+  ENUM_STRING = "NUI_RABBIT_POWWOW_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_POWWOW_4,
+  ENUM_STRING = "NUI_RABBIT_POWWOW_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGICCURE_0,
+  ENUM_STRING = "NUI_RABBIT_MAGICCURE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGICCURE_1,
+  ENUM_STRING = "NUI_RABBIT_MAGICCURE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGICCURE_2,
+  ENUM_STRING = "NUI_RABBIT_MAGICCURE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGICCURE_3,
+  ENUM_STRING = "NUI_RABBIT_MAGICCURE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGICCURE_4,
+  ENUM_STRING = "NUI_RABBIT_MAGICCURE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_SENTINEL_0,
+  ENUM_STRING = "NUI_BOAR_SENTINEL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_SENTINEL_1,
+  ENUM_STRING = "NUI_BOAR_SENTINEL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_SENTINEL_2,
+  ENUM_STRING = "NUI_BOAR_SENTINEL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_SENTINEL_3,
+  ENUM_STRING = "NUI_BOAR_SENTINEL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_SENTINEL_4,
+  ENUM_STRING = "NUI_BOAR_SENTINEL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_BANDITI_0,
+  ENUM_STRING = "NUI_BOAR_BANDITI_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_BANDITI_1,
+  ENUM_STRING = "NUI_BOAR_BANDITI_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_BANDITI_2,
+  ENUM_STRING = "NUI_BOAR_BANDITI_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_BANDITI_3,
+  ENUM_STRING = "NUI_BOAR_BANDITI_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_BANDITI_4,
+  ENUM_STRING = "NUI_BOAR_BANDITI_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_CRAZY_0,
+  ENUM_STRING = "NUI_BOAR_CRAZY_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_CRAZY_1,
+  ENUM_STRING = "NUI_BOAR_CRAZY_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_CRAZY_2,
+  ENUM_STRING = "NUI_BOAR_CRAZY_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_CRAZY_3,
+  ENUM_STRING = "NUI_BOAR_CRAZY_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_CRAZY_4,
+  ENUM_STRING = "NUI_BOAR_CRAZY_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_HEADER_0,
+  ENUM_STRING = "NUI_BOAR_HEADER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_HEADER_1,
+  ENUM_STRING = "NUI_BOAR_HEADER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_HEADER_2,
+  ENUM_STRING = "NUI_BOAR_HEADER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_HEADER_3,
+  ENUM_STRING = "NUI_BOAR_HEADER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_HEADER_4,
+  ENUM_STRING = "NUI_BOAR_HEADER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_STRONG_0,
+  ENUM_STRING = "NUI_TIGER_STRONG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_STRONG_1,
+  ENUM_STRING = "NUI_TIGER_STRONG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_STRONG_2,
+  ENUM_STRING = "NUI_TIGER_STRONG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_STRONG_3,
+  ENUM_STRING = "NUI_TIGER_STRONG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_STRONG_4,
+  ENUM_STRING = "NUI_TIGER_STRONG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_WHITE_0,
+  ENUM_STRING = "NUI_TIGER_WHITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_WHITE_1,
+  ENUM_STRING = "NUI_TIGER_WHITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_WHITE_2,
+  ENUM_STRING = "NUI_TIGER_WHITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_WHITE_3,
+  ENUM_STRING = "NUI_TIGER_WHITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_WHITE_4,
+  ENUM_STRING = "NUI_TIGER_WHITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_JUMP_0,
+  ENUM_STRING = "NUI_TIGER_JUMP_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_JUMP_1,
+  ENUM_STRING = "NUI_TIGER_JUMP_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_JUMP_2,
+  ENUM_STRING = "NUI_TIGER_JUMP_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_JUMP_3,
+  ENUM_STRING = "NUI_TIGER_JUMP_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_JUMP_4,
+  ENUM_STRING = "NUI_TIGER_JUMP_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_KING_0,
+  ENUM_STRING = "NUI_TIGER_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SENTINEL_0,
+  ENUM_STRING = "NUI_WOLF_SENTINEL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SENTINEL_1,
+  ENUM_STRING = "NUI_WOLF_SENTINEL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SENTINEL_2,
+  ENUM_STRING = "NUI_WOLF_SENTINEL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SENTINEL_3,
+  ENUM_STRING = "NUI_WOLF_SENTINEL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SENTINEL_4,
+  ENUM_STRING = "NUI_WOLF_SENTINEL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KILLER_0,
+  ENUM_STRING = "NUI_WOLF_KILLER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KILLER_1,
+  ENUM_STRING = "NUI_WOLF_KILLER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KILLER_2,
+  ENUM_STRING = "NUI_WOLF_KILLER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KILLER_3,
+  ENUM_STRING = "NUI_WOLF_KILLER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KILLER_4,
+  ENUM_STRING = "NUI_WOLF_KILLER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_HEADER_0,
+  ENUM_STRING = "NUI_WOLF_HEADER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_HEADER_1,
+  ENUM_STRING = "NUI_WOLF_HEADER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_HEADER_2,
+  ENUM_STRING = "NUI_WOLF_HEADER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_HEADER_3,
+  ENUM_STRING = "NUI_WOLF_HEADER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_HEADER_4,
+  ENUM_STRING = "NUI_WOLF_HEADER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_CAPTAIN_0,
+  ENUM_STRING = "NUI_WOLF_CAPTAIN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_CAPTAIN_1,
+  ENUM_STRING = "NUI_WOLF_CAPTAIN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_CAPTAIN_2,
+  ENUM_STRING = "NUI_WOLF_CAPTAIN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_CAPTAIN_3,
+  ENUM_STRING = "NUI_WOLF_CAPTAIN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_CAPTAIN_4,
+  ENUM_STRING = "NUI_WOLF_CAPTAIN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_0,
+  ENUM_STRING = "NUI_WOLF_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_SMALL_0,
+  ENUM_STRING = "NUI_MOUSE_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_SMALL_1,
+  ENUM_STRING = "NUI_MOUSE_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_SMALL_2,
+  ENUM_STRING = "NUI_MOUSE_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_SMALL_3,
+  ENUM_STRING = "NUI_MOUSE_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_SMALL_4,
+  ENUM_STRING = "NUI_MOUSE_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_FLYER_0,
+  ENUM_STRING = "NUI_MOUSE_FLYER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_FLYER_1,
+  ENUM_STRING = "NUI_MOUSE_FLYER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_FLYER_2,
+  ENUM_STRING = "NUI_MOUSE_FLYER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_FLYER_3,
+  ENUM_STRING = "NUI_MOUSE_FLYER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_FLYER_4,
+  ENUM_STRING = "NUI_MOUSE_FLYER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSE_0,
+  ENUM_STRING = "NUI_MOUSE_HOUSE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSE_3,
+  ENUM_STRING = "NUI_MOUSE_HOUSE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSE_4,
+  ENUM_STRING = "NUI_MOUSE_HOUSE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSEMONSTER_0,
+  ENUM_STRING = "NUI_MOUSE_HOUSEMONSTER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSEMONSTER_1,
+  ENUM_STRING = "NUI_MOUSE_HOUSEMONSTER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSEMONSTER_2,
+  ENUM_STRING = "NUI_MOUSE_HOUSEMONSTER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSEMONSTER_3,
+  ENUM_STRING = "NUI_MOUSE_HOUSEMONSTER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSEMONSTER_4,
+  ENUM_STRING = "NUI_MOUSE_HOUSEMONSTER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_SMALL_0,
+  ENUM_STRING = "NUI_MUSHROOM_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_SMALL_1,
+  ENUM_STRING = "NUI_MUSHROOM_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_SMALL_2,
+  ENUM_STRING = "NUI_MUSHROOM_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_SMALL_3,
+  ENUM_STRING = "NUI_MUSHROOM_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_SMALL_4,
+  ENUM_STRING = "NUI_MUSHROOM_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ODDNESS_0,
+  ENUM_STRING = "NUI_MUSHROOM_ODDNESS_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ODDNESS_1,
+  ENUM_STRING = "NUI_MUSHROOM_ODDNESS_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ODDNESS_2,
+  ENUM_STRING = "NUI_MUSHROOM_ODDNESS_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ODDNESS_3,
+  ENUM_STRING = "NUI_MUSHROOM_ODDNESS_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ODDNESS_4,
+  ENUM_STRING = "NUI_MUSHROOM_ODDNESS_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ENLACE_0,
+  ENUM_STRING = "NUI_MUSHROOM_ENLACE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ENLACE_1,
+  ENUM_STRING = "NUI_MUSHROOM_ENLACE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ENLACE_2,
+  ENUM_STRING = "NUI_MUSHROOM_ENLACE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ENLACE_3,
+  ENUM_STRING = "NUI_MUSHROOM_ENLACE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ENLACE_4,
+  ENUM_STRING = "NUI_MUSHROOM_ENLACE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_POISON_0,
+  ENUM_STRING = "NUI_MUSHROOM_POISON_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_POISON_1,
+  ENUM_STRING = "NUI_MUSHROOM_POISON_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_POISON_2,
+  ENUM_STRING = "NUI_MUSHROOM_POISON_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_POISON_3,
+  ENUM_STRING = "NUI_MUSHROOM_POISON_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_POISON_4,
+  ENUM_STRING = "NUI_MUSHROOM_POISON_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ELDER_0,
+  ENUM_STRING = "NUI_MUSHROOM_ELDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ELDER_1,
+  ENUM_STRING = "NUI_MUSHROOM_ELDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ELDER_2,
+  ENUM_STRING = "NUI_MUSHROOM_ELDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ELDER_3,
+  ENUM_STRING = "NUI_MUSHROOM_ELDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ELDER_4,
+  ENUM_STRING = "NUI_MUSHROOM_ELDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_MAGIC_0,
+  ENUM_STRING = "NUI_MUSHROOM_MAGIC_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_MAGIC_1,
+  ENUM_STRING = "NUI_MUSHROOM_MAGIC_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_MAGIC_2,
+  ENUM_STRING = "NUI_MUSHROOM_MAGIC_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_MAGIC_3,
+  ENUM_STRING = "NUI_MUSHROOM_MAGIC_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_MAGIC_4,
+  ENUM_STRING = "NUI_MUSHROOM_MAGIC_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_VISOR_0,
+  ENUM_STRING = "NUI_MUSHROOM_VISOR_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_VISOR_1,
+  ENUM_STRING = "NUI_MUSHROOM_VISOR_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_VISOR_2,
+  ENUM_STRING = "NUI_MUSHROOM_VISOR_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_VISOR_3,
+  ENUM_STRING = "NUI_MUSHROOM_VISOR_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_VISOR_4,
+  ENUM_STRING = "NUI_MUSHROOM_VISOR_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_DARK_0,
+  ENUM_STRING = "NUI_MUSHROOM_DARK_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_DARK_1,
+  ENUM_STRING = "NUI_MUSHROOM_DARK_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_DARK_2,
+  ENUM_STRING = "NUI_MUSHROOM_DARK_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_DARK_3,
+  ENUM_STRING = "NUI_MUSHROOM_DARK_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_DARK_4,
+  ENUM_STRING = "NUI_MUSHROOM_DARK_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_BOON_1,
+  ENUM_STRING = "NUI_MUSHROOM_BOON_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_KING_0,
+  ENUM_STRING = "NUI_MUSHROOM_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_SMALL_0,
+  ENUM_STRING = "NUI_HAOHAO_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_SMALL_1,
+  ENUM_STRING = "NUI_HAOHAO_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_SMALL_2,
+  ENUM_STRING = "NUI_HAOHAO_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_SMALL_3,
+  ENUM_STRING = "NUI_HAOHAO_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_SMALL_4,
+  ENUM_STRING = "NUI_HAOHAO_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_FIRE_0,
+  ENUM_STRING = "NUI_HAOHAO_FIRE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_FIRE_1,
+  ENUM_STRING = "NUI_HAOHAO_FIRE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_FIRE_2,
+  ENUM_STRING = "NUI_HAOHAO_FIRE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_FIRE_3,
+  ENUM_STRING = "NUI_HAOHAO_FIRE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_FIRE_4,
+  ENUM_STRING = "NUI_HAOHAO_FIRE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_EARTH_0,
+  ENUM_STRING = "NUI_HAOHAO_EARTH_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_EARTH_1,
+  ENUM_STRING = "NUI_HAOHAO_EARTH_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_EARTH_2,
+  ENUM_STRING = "NUI_HAOHAO_EARTH_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_EARTH_3,
+  ENUM_STRING = "NUI_HAOHAO_EARTH_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_EARTH_4,
+  ENUM_STRING = "NUI_HAOHAO_EARTH_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_WIND_0,
+  ENUM_STRING = "NUI_HAOHAO_WIND_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_WIND_1,
+  ENUM_STRING = "NUI_HAOHAO_WIND_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_WIND_2,
+  ENUM_STRING = "NUI_HAOHAO_WIND_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_WIND_3,
+  ENUM_STRING = "NUI_HAOHAO_WIND_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_WIND_4,
+  ENUM_STRING = "NUI_HAOHAO_WIND_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_RED_0,
+  ENUM_STRING = "NUI_MICE_KING_RED_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_WHITE_0,
+  ENUM_STRING = "NUI_MICE_KING_WHITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_WHITE_1,
+  ENUM_STRING = "NUI_MICE_KING_WHITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_WHITE_2,
+  ENUM_STRING = "NUI_MICE_KING_WHITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_WHITE_3,
+  ENUM_STRING = "NUI_MICE_KING_WHITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_WHITE_4,
+  ENUM_STRING = "NUI_MICE_KING_WHITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_BLACK_0,
+  ENUM_STRING = "NUI_MICE_KING_BLACK_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_BIG_0,
+  ENUM_STRING = "NUI_BOTTLE_BIG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_BIG_1,
+  ENUM_STRING = "NUI_BOTTLE_BIG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_BIG_2,
+  ENUM_STRING = "NUI_BOTTLE_BIG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_BIG_3,
+  ENUM_STRING = "NUI_BOTTLE_BIG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_BIG_4,
+  ENUM_STRING = "NUI_BOTTLE_BIG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_TEETH_0,
+  ENUM_STRING = "NUI_BOTTLE_TEETH_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_TEETH_1,
+  ENUM_STRING = "NUI_BOTTLE_TEETH_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_TEETH_2,
+  ENUM_STRING = "NUI_BOTTLE_TEETH_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_TEETH_3,
+  ENUM_STRING = "NUI_BOTTLE_TEETH_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_TEETH_4,
+  ENUM_STRING = "NUI_BOTTLE_TEETH_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_FIRE_0,
+  ENUM_STRING = "NUI_BOTTLE_FIRE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_FIRE_1,
+  ENUM_STRING = "NUI_BOTTLE_FIRE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_FIRE_2,
+  ENUM_STRING = "NUI_BOTTLE_FIRE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_FIRE_3,
+  ENUM_STRING = "NUI_BOTTLE_FIRE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_FIRE_4,
+  ENUM_STRING = "NUI_BOTTLE_FIRE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_OGRESS_NORMAL_0,
+  ENUM_STRING = "NUI_OGRESS_NORMAL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_OGRESS_NORMAL_1,
+  ENUM_STRING = "NUI_OGRESS_NORMAL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_OGRESS_NORMAL_2,
+  ENUM_STRING = "NUI_OGRESS_NORMAL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_OGRESS_NORMAL_3,
+  ENUM_STRING = "NUI_OGRESS_NORMAL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_OGRESS_NORMAL_4,
+  ENUM_STRING = "NUI_OGRESS_NORMAL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_0,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_1,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_2,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_3,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_4,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WEED_SPRITE_0,
+  ENUM_STRING = "NUI_WEED_SPRITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WEED_SPRITE_1,
+  ENUM_STRING = "NUI_WEED_SPRITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WEED_SPRITE_2,
+  ENUM_STRING = "NUI_WEED_SPRITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WEED_SPRITE_3,
+  ENUM_STRING = "NUI_WEED_SPRITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WEED_SPRITE_4,
+  ENUM_STRING = "NUI_WEED_SPRITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THORN_0,
+  ENUM_STRING = "NUI_THORN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THORN_1,
+  ENUM_STRING = "NUI_THORN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THORN_2,
+  ENUM_STRING = "NUI_THORN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THORN_3,
+  ENUM_STRING = "NUI_THORN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THORN_4,
+  ENUM_STRING = "NUI_THORN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QUEEN_ROSE_0,
+  ENUM_STRING = "NUI_QUEEN_ROSE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_MAID_0,
+  ENUM_STRING = "NUI_SNAKE_MAID_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_MAID_1,
+  ENUM_STRING = "NUI_SNAKE_MAID_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_MAID_2,
+  ENUM_STRING = "NUI_SNAKE_MAID_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_MAID_3,
+  ENUM_STRING = "NUI_SNAKE_MAID_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_MAID_4,
+  ENUM_STRING = "NUI_SNAKE_MAID_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_MAO_0,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_MAO_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_MAO_1,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_MAO_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_MAO_2,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_MAO_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_MAO_3,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_MAO_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_MAO_4,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_MAO_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_0,
+  ENUM_STRING = "NUI_QING_GENT_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_SNAKE_0,
+  ENUM_STRING = "NUI_QING_GENT_SNAKE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_SMALL_0,
+  ENUM_STRING = "NUI_SCORPION_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_SMALL_1,
+  ENUM_STRING = "NUI_SCORPION_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_SMALL_2,
+  ENUM_STRING = "NUI_SCORPION_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_SMALL_3,
+  ENUM_STRING = "NUI_SCORPION_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_SMALL_4,
+  ENUM_STRING = "NUI_SCORPION_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_POISON_0,
+  ENUM_STRING = "NUI_SCORPION_POISON_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_POISON_1,
+  ENUM_STRING = "NUI_SCORPION_POISON_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_POISON_2,
+  ENUM_STRING = "NUI_SCORPION_POISON_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_POISON_3,
+  ENUM_STRING = "NUI_SCORPION_POISON_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_POISON_4,
+  ENUM_STRING = "NUI_SCORPION_POISON_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_GLODTAIL_0,
+  ENUM_STRING = "NUI_SCORPION_GLODTAIL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_GLODTAIL_1,
+  ENUM_STRING = "NUI_SCORPION_GLODTAIL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_GLODTAIL_2,
+  ENUM_STRING = "NUI_SCORPION_GLODTAIL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_GLODTAIL_3,
+  ENUM_STRING = "NUI_SCORPION_GLODTAIL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_GLODTAIL_4,
+  ENUM_STRING = "NUI_SCORPION_GLODTAIL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_KING_0,
+  ENUM_STRING = "NUI_SCORPION_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SMALL_0,
+  ENUM_STRING = "NUI_FOX_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SMALL_1,
+  ENUM_STRING = "NUI_FOX_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SMALL_2,
+  ENUM_STRING = "NUI_FOX_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SMALL_3,
+  ENUM_STRING = "NUI_FOX_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SMALL_4,
+  ENUM_STRING = "NUI_FOX_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_THREETAIL_0,
+  ENUM_STRING = "NUI_FOX_THREETAIL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_THREETAIL_1,
+  ENUM_STRING = "NUI_FOX_THREETAIL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_THREETAIL_2,
+  ENUM_STRING = "NUI_FOX_THREETAIL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_THREETAIL_3,
+  ENUM_STRING = "NUI_FOX_THREETAIL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_THREETAIL_4,
+  ENUM_STRING = "NUI_FOX_THREETAIL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_FIRE_0,
+  ENUM_STRING = "NUI_FOX_FIRE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_FIRE_1,
+  ENUM_STRING = "NUI_FOX_FIRE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_FIRE_2,
+  ENUM_STRING = "NUI_FOX_FIRE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_FIRE_3,
+  ENUM_STRING = "NUI_FOX_FIRE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_FIRE_4,
+  ENUM_STRING = "NUI_FOX_FIRE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SILLER_0,
+  ENUM_STRING = "NUI_FOX_SILLER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SILLER_1,
+  ENUM_STRING = "NUI_FOX_SILLER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SILLER_2,
+  ENUM_STRING = "NUI_FOX_SILLER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SILLER_3,
+  ENUM_STRING = "NUI_FOX_SILLER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_SILLER_4,
+  ENUM_STRING = "NUI_FOX_SILLER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_OGRESS_0,
+  ENUM_STRING = "NUI_FOX_OGRESS_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_OGRESS_1,
+  ENUM_STRING = "NUI_FOX_OGRESS_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_OGRESS_2,
+  ENUM_STRING = "NUI_FOX_OGRESS_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_OGRESS_3,
+  ENUM_STRING = "NUI_FOX_OGRESS_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FOX_OGRESS_4,
+  ENUM_STRING = "NUI_FOX_OGRESS_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_SOLDIER_0,
+  ENUM_STRING = "NUI_LIZARD_SOLDIER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_SOLDIER_1,
+  ENUM_STRING = "NUI_LIZARD_SOLDIER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_SOLDIER_2,
+  ENUM_STRING = "NUI_LIZARD_SOLDIER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_SOLDIER_3,
+  ENUM_STRING = "NUI_LIZARD_SOLDIER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_SOLDIER_4,
+  ENUM_STRING = "NUI_LIZARD_SOLDIER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_GUARD_0,
+  ENUM_STRING = "NUI_LIZARD_GUARD_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_GUARD_1,
+  ENUM_STRING = "NUI_LIZARD_GUARD_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_GUARD_2,
+  ENUM_STRING = "NUI_LIZARD_GUARD_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_GUARD_3,
+  ENUM_STRING = "NUI_LIZARD_GUARD_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_GUARD_4,
+  ENUM_STRING = "NUI_LIZARD_GUARD_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_HEADER_0,
+  ENUM_STRING = "NUI_LIZARD_HEADER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_HEADER_1,
+  ENUM_STRING = "NUI_LIZARD_HEADER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_HEADER_2,
+  ENUM_STRING = "NUI_LIZARD_HEADER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_HEADER_3,
+  ENUM_STRING = "NUI_LIZARD_HEADER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_HEADER_4,
+  ENUM_STRING = "NUI_LIZARD_HEADER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_BOW_0,
+  ENUM_STRING = "NUI_LIZARD_BOW_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_BOW_1,
+  ENUM_STRING = "NUI_LIZARD_BOW_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_BOW_2,
+  ENUM_STRING = "NUI_LIZARD_BOW_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_BOW_3,
+  ENUM_STRING = "NUI_LIZARD_BOW_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_BOW_4,
+  ENUM_STRING = "NUI_LIZARD_BOW_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_THUG_0,
+  ENUM_STRING = "NUI_LIZARD_THUG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_THUG_1,
+  ENUM_STRING = "NUI_LIZARD_THUG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_THUG_2,
+  ENUM_STRING = "NUI_LIZARD_THUG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_THUG_3,
+  ENUM_STRING = "NUI_LIZARD_THUG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIZARD_THUG_4,
+  ENUM_STRING = "NUI_LIZARD_THUG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_SHENTIANCI_0,
+  ENUM_STRING = "NUI_GHOST_SHENTIANCI_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_SHENTIANCI_1,
+  ENUM_STRING = "NUI_GHOST_SHENTIANCI_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_SHENTIANCI_2,
+  ENUM_STRING = "NUI_GHOST_SHENTIANCI_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_SHENTIANCI_3,
+  ENUM_STRING = "NUI_GHOST_SHENTIANCI_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_SHENTIANCI_4,
+  ENUM_STRING = "NUI_GHOST_SHENTIANCI_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_YUELING_0,
+  ENUM_STRING = "NUI_GHOST_YUELING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_YUELING_1,
+  ENUM_STRING = "NUI_GHOST_YUELING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_YUELING_2,
+  ENUM_STRING = "NUI_GHOST_YUELING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_YUELING_3,
+  ENUM_STRING = "NUI_GHOST_YUELING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_YUELING_4,
+  ENUM_STRING = "NUI_GHOST_YUELING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAO_0,
+  ENUM_STRING = "NUI_GHOST_XIAO_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAO_1,
+  ENUM_STRING = "NUI_GHOST_XIAO_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAO_2,
+  ENUM_STRING = "NUI_GHOST_XIAO_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAO_3,
+  ENUM_STRING = "NUI_GHOST_XIAO_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAO_4,
+  ENUM_STRING = "NUI_GHOST_XIAO_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_WU_0,
+  ENUM_STRING = "NUI_GHOST_WU_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_WU_1,
+  ENUM_STRING = "NUI_GHOST_WU_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_WU_2,
+  ENUM_STRING = "NUI_GHOST_WU_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_WU_3,
+  ENUM_STRING = "NUI_GHOST_WU_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_WU_4,
+  ENUM_STRING = "NUI_GHOST_WU_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ERPANG_0,
+  ENUM_STRING = "NUI_GHOST_ERPANG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ERPANG_1,
+  ENUM_STRING = "NUI_GHOST_ERPANG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ERPANG_2,
+  ENUM_STRING = "NUI_GHOST_ERPANG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ERPANG_3,
+  ENUM_STRING = "NUI_GHOST_ERPANG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ERPANG_4,
+  ENUM_STRING = "NUI_GHOST_ERPANG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAOHU_0,
+  ENUM_STRING = "NUI_GHOST_XIAOHU_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAOHU_1,
+  ENUM_STRING = "NUI_GHOST_XIAOHU_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAOHU_2,
+  ENUM_STRING = "NUI_GHOST_XIAOHU_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAOHU_3,
+  ENUM_STRING = "NUI_GHOST_XIAOHU_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_XIAOHU_4,
+  ENUM_STRING = "NUI_GHOST_XIAOHU_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SMALL_0,
+  ENUM_STRING = "NUI_LANTERN_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SMALL_1,
+  ENUM_STRING = "NUI_LANTERN_SMALL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SMALL_2,
+  ENUM_STRING = "NUI_LANTERN_SMALL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SMALL_3,
+  ENUM_STRING = "NUI_LANTERN_SMALL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SMALL_4,
+  ENUM_STRING = "NUI_LANTERN_SMALL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_COLOUR_0,
+  ENUM_STRING = "NUI_LANTERN_COLOUR_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_COLOUR_1,
+  ENUM_STRING = "NUI_LANTERN_COLOUR_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_COLOUR_2,
+  ENUM_STRING = "NUI_LANTERN_COLOUR_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_COLOUR_3,
+  ENUM_STRING = "NUI_LANTERN_COLOUR_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_COLOUR_4,
+  ENUM_STRING = "NUI_LANTERN_COLOUR_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SPOOK_0,
+  ENUM_STRING = "NUI_LANTERN_SPOOK_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SPOOK_1,
+  ENUM_STRING = "NUI_LANTERN_SPOOK_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SPOOK_2,
+  ENUM_STRING = "NUI_LANTERN_SPOOK_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SPOOK_3,
+  ENUM_STRING = "NUI_LANTERN_SPOOK_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SPOOK_4,
+  ENUM_STRING = "NUI_LANTERN_SPOOK_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_HORN_0,
+  ENUM_STRING = "NUI_LANTERN_HORN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_HORN_1,
+  ENUM_STRING = "NUI_LANTERN_HORN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_HORN_2,
+  ENUM_STRING = "NUI_LANTERN_HORN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_HORN_3,
+  ENUM_STRING = "NUI_LANTERN_HORN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_HORN_4,
+  ENUM_STRING = "NUI_LANTERN_HORN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_KING_0,
+  ENUM_STRING = "NUI_LANTERN_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_SUMMON_0,
+  ENUM_STRING = "NUI_MUSHROOM_SUMMON_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SUMMON_0,
+  ENUM_STRING = "NUI_LANTERN_SUMMON_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_SPRITE_0,
+  ENUM_STRING = "NUI_FIRE_SPRITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_SPRITE_1,
+  ENUM_STRING = "NUI_FIRE_SPRITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_SPRITE_2,
+  ENUM_STRING = "NUI_FIRE_SPRITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_SPRITE_3,
+  ENUM_STRING = "NUI_FIRE_SPRITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_SPRITE_4,
+  ENUM_STRING = "NUI_FIRE_SPRITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITE_0,
+  ENUM_STRING = "NUI_SPRITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITE_1,
+  ENUM_STRING = "NUI_SPRITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITE_2,
+  ENUM_STRING = "NUI_SPRITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITE_3,
+  ENUM_STRING = "NUI_SPRITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITE_4,
+  ENUM_STRING = "NUI_SPRITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_0,
+  ENUM_STRING = "NUI_MANDRILL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_GONG_0,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_GONG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_GONG_1,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_GONG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_GONG_2,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_GONG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_GONG_3,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_GONG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_GONG_4,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_GONG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CROW_FAT_0,
+  ENUM_STRING = "NUI_CROW_FAT_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_EARTH_SPIDER_0,
+  ENUM_STRING = "NUI_EARTH_SPIDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_SPRITE_0,
+  ENUM_STRING = "NUI_WATER_SPRITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_SPRITE_1,
+  ENUM_STRING = "NUI_WATER_SPRITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_SPRITE_2,
+  ENUM_STRING = "NUI_WATER_SPRITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_SPRITE_3,
+  ENUM_STRING = "NUI_WATER_SPRITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_SPRITE_4,
+  ENUM_STRING = "NUI_WATER_SPRITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_WHITE_0,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_WHITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_WHITE_1,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_WHITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_WHITE_2,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_WHITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_WHITE_3,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_WHITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_WHITE_4,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_WHITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_HUA_0,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_HUA_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_HUA_1,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_HUA_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_HUA_2,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_HUA_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_HUA_3,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_HUA_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_HUA_4,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_HUA_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_0,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_1,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_2,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_3,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_4,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_XIONG_0,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_XIONG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_XIONG_1,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_XIONG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_XIONG_2,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_XIONG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_XIONG_3,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_XIONG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_XIONG_4,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_XIONG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_0,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_1,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_2,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_3,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_4,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_GOLD_0,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_GOLD_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_GOLD_1,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_GOLD_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_GOLD_2,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_GOLD_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_GOLD_3,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_GOLD_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_GOLD_4,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_GOLD_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_ONE_0,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_ONE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_ONE_1,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_ONE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_ONE_2,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_ONE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_ONE_3,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_ONE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_ONE_4,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_ONE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_TWO_0,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_TWO_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_TWO_1,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_TWO_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_TWO_2,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_TWO_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_TWO_3,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_TWO_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_TWO_4,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_TWO_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_ROCK_0,
+  ENUM_STRING = "NUI_SPRITEMACHINE_ROCK_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_ROCK_1,
+  ENUM_STRING = "NUI_SPRITEMACHINE_ROCK_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_ROCK_2,
+  ENUM_STRING = "NUI_SPRITEMACHINE_ROCK_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_ROCK_3,
+  ENUM_STRING = "NUI_SPRITEMACHINE_ROCK_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_ROCK_4,
+  ENUM_STRING = "NUI_SPRITEMACHINE_ROCK_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_CLAW_1,
+  ENUM_STRING = "NUI_SPRITEMACHINE_CLAW_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_CLAW_2,
+  ENUM_STRING = "NUI_SPRITEMACHINE_CLAW_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_CLAW_3,
+  ENUM_STRING = "NUI_SPRITEMACHINE_CLAW_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_CLAW_4,
+  ENUM_STRING = "NUI_SPRITEMACHINE_CLAW_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPIDER_0,
+  ENUM_STRING = "NUI_SPIDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPIDER_1,
+  ENUM_STRING = "NUI_SPIDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPIDER_2,
+  ENUM_STRING = "NUI_SPIDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPIDER_3,
+  ENUM_STRING = "NUI_SPIDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPIDER_4,
+  ENUM_STRING = "NUI_SPIDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_POISON_SPIDER_0,
+  ENUM_STRING = "NUI_POISON_SPIDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_POISON_SPIDER_1,
+  ENUM_STRING = "NUI_POISON_SPIDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_POISON_SPIDER_2,
+  ENUM_STRING = "NUI_POISON_SPIDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_POISON_SPIDER_3,
+  ENUM_STRING = "NUI_POISON_SPIDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_POISON_SPIDER_4,
+  ENUM_STRING = "NUI_POISON_SPIDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GOLD_SPIDER_0,
+  ENUM_STRING = "NUI_GOLD_SPIDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GOLD_SPIDER_1,
+  ENUM_STRING = "NUI_GOLD_SPIDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GOLD_SPIDER_2,
+  ENUM_STRING = "NUI_GOLD_SPIDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GOLD_SPIDER_3,
+  ENUM_STRING = "NUI_GOLD_SPIDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GOLD_SPIDER_4,
+  ENUM_STRING = "NUI_GOLD_SPIDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WIND_SPRITE_0,
+  ENUM_STRING = "NUI_WIND_SPRITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WIND_SPRITE_1,
+  ENUM_STRING = "NUI_WIND_SPRITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WIND_SPRITE_2,
+  ENUM_STRING = "NUI_WIND_SPRITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WIND_SPRITE_3,
+  ENUM_STRING = "NUI_WIND_SPRITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WIND_SPRITE_4,
+  ENUM_STRING = "NUI_WIND_SPRITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THUNDER_SPRITE_0,
+  ENUM_STRING = "NUI_THUNDER_SPRITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THUNDER_SPRITE_1,
+  ENUM_STRING = "NUI_THUNDER_SPRITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THUNDER_SPRITE_2,
+  ENUM_STRING = "NUI_THUNDER_SPRITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THUNDER_SPRITE_3,
+  ENUM_STRING = "NUI_THUNDER_SPRITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THUNDER_SPRITE_4,
+  ENUM_STRING = "NUI_THUNDER_SPRITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PATRIARCH_SPRITE_0,
+  ENUM_STRING = "NUI_PATRIARCH_SPRITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PATRIARCH_SPRITE_1,
+  ENUM_STRING = "NUI_PATRIARCH_SPRITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PATRIARCH_SPRITE_2,
+  ENUM_STRING = "NUI_PATRIARCH_SPRITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PATRIARCH_SPRITE_3,
+  ENUM_STRING = "NUI_PATRIARCH_SPRITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PATRIARCH_SPRITE_4,
+  ENUM_STRING = "NUI_PATRIARCH_SPRITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_QIANG_0,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_QIANG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_QIANG_1,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_QIANG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_QIANG_2,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_QIANG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_QIANG_3,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_QIANG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_QIANG_4,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_QIANG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SNOW_0,
+  ENUM_STRING = "NUI_WOLF_SNOW_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SNOW_1,
+  ENUM_STRING = "NUI_WOLF_SNOW_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SNOW_2,
+  ENUM_STRING = "NUI_WOLF_SNOW_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SNOW_3,
+  ENUM_STRING = "NUI_WOLF_SNOW_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SNOW_4,
+  ENUM_STRING = "NUI_WOLF_SNOW_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YILIDAN_0,
+  ENUM_STRING = "NUI_YILIDAN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YILIDAN_1,
+  ENUM_STRING = "NUI_YILIDAN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YILIDAN_2,
+  ENUM_STRING = "NUI_YILIDAN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YILIDAN_3,
+  ENUM_STRING = "NUI_YILIDAN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YILIDAN_4,
+  ENUM_STRING = "NUI_YILIDAN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_PONTIFF_0,
+  ENUM_STRING = "NUI_GEJI_PONTIFF_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_PONTIFF_1,
+  ENUM_STRING = "NUI_GEJI_PONTIFF_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_PONTIFF_2,
+  ENUM_STRING = "NUI_GEJI_PONTIFF_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_PONTIFF_3,
+  ENUM_STRING = "NUI_GEJI_PONTIFF_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_PONTIFF_4,
+  ENUM_STRING = "NUI_GEJI_PONTIFF_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_GONG_0,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_GONG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_GONG_1,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_GONG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_GONG_2,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_GONG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_GONG_3,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_GONG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_GONG_4,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_GONG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_HUNTER_0,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_HUNTER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_HUNTER_1,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_HUNTER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_HUNTER_2,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_HUNTER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_HUNTER_3,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_HUNTER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_HUNTER_4,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_HUNTER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_DUN_0,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_DUN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_DUN_1,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_DUN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_DUN_2,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_DUN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_DUN_3,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_DUN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_DUN_4,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_DUN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_FU_0,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_FU_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_FU_1,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_FU_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_FU_2,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_FU_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_FU_3,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_FU_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_FU_4,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_FU_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_WARRIOR_0,
+  ENUM_STRING = "NUI_GEJI_WARRIOR_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_WARRIOR_1,
+  ENUM_STRING = "NUI_GEJI_WARRIOR_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_WARRIOR_2,
+  ENUM_STRING = "NUI_GEJI_WARRIOR_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_WARRIOR_3,
+  ENUM_STRING = "NUI_GEJI_WARRIOR_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_WARRIOR_4,
+  ENUM_STRING = "NUI_GEJI_WARRIOR_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_WOMAN_0,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_WOMAN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_WOMAN_1,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_WOMAN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_WOMAN_2,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_WOMAN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_WOMAN_3,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_WOMAN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_SOLDIER_WOMAN_4,
+  ENUM_STRING = "NUI_GEJI_SOLDIER_WOMAN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_FLAMEN_0,
+  ENUM_STRING = "NUI_GEJI_FLAMEN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_FLAMEN_1,
+  ENUM_STRING = "NUI_GEJI_FLAMEN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_FLAMEN_2,
+  ENUM_STRING = "NUI_GEJI_FLAMEN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_FLAMEN_3,
+  ENUM_STRING = "NUI_GEJI_FLAMEN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_FLAMEN_4,
+  ENUM_STRING = "NUI_GEJI_FLAMEN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_HAG_0,
+  ENUM_STRING = "NUI_GEJI_HAG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_HAG_1,
+  ENUM_STRING = "NUI_GEJI_HAG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_HAG_2,
+  ENUM_STRING = "NUI_GEJI_HAG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_HAG_3,
+  ENUM_STRING = "NUI_GEJI_HAG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GEJI_HAG_4,
+  ENUM_STRING = "NUI_GEJI_HAG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_MASK_0,
+  ENUM_STRING = "NUI_SPITE_MASK_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_MASK_1,
+  ENUM_STRING = "NUI_SPITE_MASK_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_MASK_2,
+  ENUM_STRING = "NUI_SPITE_MASK_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_MASK_3,
+  ENUM_STRING = "NUI_SPITE_MASK_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_MASK_4,
+  ENUM_STRING = "NUI_SPITE_MASK_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_CRYSTAL_0,
+  ENUM_STRING = "NUI_SPITE_CRYSTAL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_CRYSTAL_1,
+  ENUM_STRING = "NUI_SPITE_CRYSTAL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_CRYSTAL_2,
+  ENUM_STRING = "NUI_SPITE_CRYSTAL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_CRYSTAL_3,
+  ENUM_STRING = "NUI_SPITE_CRYSTAL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPITE_CRYSTAL_4,
+  ENUM_STRING = "NUI_SPITE_CRYSTAL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DOOR_GUARDER_0,
+  ENUM_STRING = "NUI_DOOR_GUARDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DOOR_GUARDER_1,
+  ENUM_STRING = "NUI_DOOR_GUARDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DOOR_GUARDER_2,
+  ENUM_STRING = "NUI_DOOR_GUARDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DOOR_GUARDER_3,
+  ENUM_STRING = "NUI_DOOR_GUARDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DOOR_GUARDER_4,
+  ENUM_STRING = "NUI_DOOR_GUARDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BLOCK_BIG,
+  ENUM_STRING = "NUI_BLOCK_BIG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FRUIT_POISON,
+  ENUM_STRING = "NUI_FRUIT_POISON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BLACKCRYSTAL_0,
+  ENUM_STRING = "NUI_BLACKCRYSTAL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BLACKCRYSTAL_1,
+  ENUM_STRING = "NUI_BLACKCRYSTAL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BLACKCRYSTAL_2,
+  ENUM_STRING = "NUI_BLACKCRYSTAL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BLACKCRYSTAL_3,
+  ENUM_STRING = "NUI_BLACKCRYSTAL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BLACKCRYSTAL_4,
+  ENUM_STRING = "NUI_BLACKCRYSTAL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIONGYA_0,
+  ENUM_STRING = "NUI_XIONGYA_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIONGYA_1,
+  ENUM_STRING = "NUI_XIONGYA_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIONGYA_2,
+  ENUM_STRING = "NUI_XIONGYA_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIONGYA_3,
+  ENUM_STRING = "NUI_XIONGYA_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIONGYA_4,
+  ENUM_STRING = "NUI_XIONGYA_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWMAN_0,
+  ENUM_STRING = "NUI_SNOWMAN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWMAN_1,
+  ENUM_STRING = "NUI_SNOWMAN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWMAN_2,
+  ENUM_STRING = "NUI_SNOWMAN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWMAN_3,
+  ENUM_STRING = "NUI_SNOWMAN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWMAN_4,
+  ENUM_STRING = "NUI_SNOWMAN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWWOMAN_0,
+  ENUM_STRING = "NUI_SNOWWOMAN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWWOMAN_1,
+  ENUM_STRING = "NUI_SNOWWOMAN_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWWOMAN_2,
+  ENUM_STRING = "NUI_SNOWWOMAN_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWWOMAN_3,
+  ENUM_STRING = "NUI_SNOWWOMAN_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNOWWOMAN_4,
+  ENUM_STRING = "NUI_SNOWWOMAN_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SNOW_0,
+  ENUM_STRING = "NUI_MONKEY_SNOW_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SNOW_1,
+  ENUM_STRING = "NUI_MONKEY_SNOW_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SNOW_2,
+  ENUM_STRING = "NUI_MONKEY_SNOW_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SNOW_3,
+  ENUM_STRING = "NUI_MONKEY_SNOW_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SNOW_4,
+  ENUM_STRING = "NUI_MONKEY_SNOW_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANNER,
+  ENUM_STRING = "NUI_BANNER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM,
+  ENUM_STRING = "NUI_MUSHROOM"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_OGRESS_MARIO,
+  ENUM_STRING = "NUI_OGRESS_MARIO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BIG_STONE_MONSTER_0,
+  ENUM_STRING = "NUI_BIG_STONE_MONSTER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BIG_STONE_MONSTER_1,
+  ENUM_STRING = "NUI_BIG_STONE_MONSTER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BIG_STONE_MONSTER_2,
+  ENUM_STRING = "NUI_BIG_STONE_MONSTER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BIG_STONE_MONSTER_3,
+  ENUM_STRING = "NUI_BIG_STONE_MONSTER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BIG_STONE_MONSTER_4,
+  ENUM_STRING = "NUI_BIG_STONE_MONSTER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PUMPKIN,
+  ENUM_STRING = "NUI_PUMPKIN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_MARIO,
+  ENUM_STRING = "NUI_CHEST_MARIO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHESTMONSTER_WOOD,
+  ENUM_STRING = "NUI_CHESTMONSTER_WOOD"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHESTMONSTER_IRON,
+  ENUM_STRING = "NUI_CHESTMONSTER_IRON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHESTMONSTER_COPPER,
+  ENUM_STRING = "NUI_CHESTMONSTER_COPPER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHESTMONSTER_SILLER,
+  ENUM_STRING = "NUI_CHESTMONSTER_SILLER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHESTMONSTER_GOLD,
+  ENUM_STRING = "NUI_CHESTMONSTER_GOLD"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANGALORE,
+  ENUM_STRING = "NUI_BANGALORE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_REAPHOOK,
+  ENUM_STRING = "NUI_REAPHOOK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_ARROW_EMITTER,
+  ENUM_STRING = "NUI_ARROW_EMITTER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANDMINE_FIRE,
+  ENUM_STRING = "NUI_LANDMINE_FIRE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANDMINE_POISON,
+  ENUM_STRING = "NUI_LANDMINE_POISON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_CLUB,
+  ENUM_STRING = "NUI_FIRE_CLUB"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_AVALANCHE,
+  ENUM_STRING = "NUI_AVALANCHE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOX_DROPPER,
+  ENUM_STRING = "NUI_BOX_DROPPER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOX_TUTORIAL,
+  ENUM_STRING = "NUI_BOX_TUTORIAL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOX_TUTORIAL2,
+  ENUM_STRING = "NUI_BOX_TUTORIAL2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SMALLGATE_BOSS_RED,
+  ENUM_STRING = "NUI_SMALLGATE_BOSS_RED"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SMALLGATE_BOSS_POST,
+  ENUM_STRING = "NUI_SMALLGATE_BOSS_POST"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_ROCKDOOR_01,
+  ENUM_STRING = "NUI_ROCKDOOR_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_ROCKPOST_01,
+  ENUM_STRING = "NUI_ROCKPOST_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOODDOOR_01,
+  ENUM_STRING = "NUI_WOODDOOR_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOODPOST_01,
+  ENUM_STRING = "NUI_WOODPOST_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_DOOR_01,
+  ENUM_STRING = "NUI_FIELD_DOOR_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NEW_DOOR_01,
+  ENUM_STRING = "NUI_NEW_DOOR_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NEW_POST_01,
+  ENUM_STRING = "NUI_NEW_POST_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NEW_DOOR_02,
+  ENUM_STRING = "NUI_NEW_DOOR_02"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NEW_POST_02,
+  ENUM_STRING = "NUI_NEW_POST_02"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NEW_DOOR_03,
+  ENUM_STRING = "NUI_NEW_DOOR_03"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WEED,
+  ENUM_STRING = "NUI_WEED"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NPC_SHENTIANCI_JIANSHI,
+  ENUM_STRING = "NUI_NPC_SHENTIANCI_JIANSHI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NPC_YUELING_FASHI,
+  ENUM_STRING = "NUI_NPC_YUELING_FASHI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NPC_XIAO_GONGSHOU,
+  ENUM_STRING = "NUI_NPC_XIAO_GONGSHOU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_THORN_BLACK,
+  ENUM_STRING = "NUI_TRAP_THORN_BLACK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_BOW_DOWN,
+  ENUM_STRING = "NUI_TRAP_BOW_DOWN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_ICE,
+  ENUM_STRING = "NUI_TRAP_ICE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_FIRE,
+  ENUM_STRING = "NUI_TRAP_FIRE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_POISON,
+  ENUM_STRING = "NUI_TRAP_POISON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_KNIFEPOINT,
+  ENUM_STRING = "NUI_TRAP_KNIFEPOINT"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_ROLL,
+  ENUM_STRING = "NUI_TRAP_ROLL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_WIND,
+  ENUM_STRING = "NUI_TRAP_WIND"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_SLOWN,
+  ENUM_STRING = "NUI_TRAP_SLOWN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_ROCKFALL,
+  ENUM_STRING = "NUI_TRAP_ROCKFALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_SMALL,
+  ENUM_STRING = "NUI_BEE_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_BOMB_0,
+  ENUM_STRING = "NUI_BEE_BOMB_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_BOMB,
+  ENUM_STRING = "NUI_BEE_BOMB"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_KING_0,
+  ENUM_STRING = "NUI_BEE_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_KING_1,
+  ENUM_STRING = "NUI_BEE_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_KING_2,
+  ENUM_STRING = "NUI_BEE_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_KING_3,
+  ENUM_STRING = "NUI_BEE_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_KING_4,
+  ENUM_STRING = "NUI_BEE_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_POISON,
+  ENUM_STRING = "NUI_BEE_POISON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_ICE,
+  ENUM_STRING = "NUI_BEE_ICE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_DARK_0,
+  ENUM_STRING = "NUI_BEE_DARK_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_DARK,
+  ENUM_STRING = "NUI_BEE_DARK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEE_THUG,
+  ENUM_STRING = "NUI_BEE_THUG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_SMALL,
+  ENUM_STRING = "NUI_BEEHOUSE_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_POISON,
+  ENUM_STRING = "NUI_BEEHOUSE_POISON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_ICE,
+  ENUM_STRING = "NUI_BEEHOUSE_ICE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_BOMB_0,
+  ENUM_STRING = "NUI_BEEHOUSE_BOMB_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_BOMB,
+  ENUM_STRING = "NUI_BEEHOUSE_BOMB"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_DARK,
+  ENUM_STRING = "NUI_BEEHOUSE_DARK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_KING_1,
+  ENUM_STRING = "NUI_BEEHOUSE_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_KING_2,
+  ENUM_STRING = "NUI_BEEHOUSE_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_KING_3,
+  ENUM_STRING = "NUI_BEEHOUSE_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BEEHOUSE_KING_4,
+  ENUM_STRING = "NUI_BEEHOUSE_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SMALL,
+  ENUM_STRING = "NUI_MONKEY_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GIANT_1,
+  ENUM_STRING = "NUI_MONKEY_GIANT_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GIANT_2,
+  ENUM_STRING = "NUI_MONKEY_GIANT_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GIANT_3,
+  ENUM_STRING = "NUI_MONKEY_GIANT_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_GIANT_4,
+  ENUM_STRING = "NUI_MONKEY_GIANT_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BIG,
+  ENUM_STRING = "NUI_MONKEY_BIG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_APPLE,
+  ENUM_STRING = "NUI_MONKEY_APPLE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_FIRE,
+  ENUM_STRING = "NUI_MONKEY_FIRE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_HEADER_1,
+  ENUM_STRING = "NUI_MONKEY_HEADER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_HEADER_2,
+  ENUM_STRING = "NUI_MONKEY_HEADER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_HEADER_3,
+  ENUM_STRING = "NUI_MONKEY_HEADER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_HEADER_4,
+  ENUM_STRING = "NUI_MONKEY_HEADER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_WHITE,
+  ENUM_STRING = "NUI_MONKEY_WHITE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_BOMB,
+  ENUM_STRING = "NUI_MONKEY_BOMB"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_MANIA,
+  ENUM_STRING = "NUI_MONKEY_MANIA"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_DREAD,
+  ENUM_STRING = "NUI_MONKEY_DREAD"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SOLDER,
+  ENUM_STRING = "NUI_MONKEY_SOLDER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_FAT,
+  ENUM_STRING = "NUI_MONKEY_FAT"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ICE,
+  ENUM_STRING = "NUI_MONKEY_ICE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_EARTH,
+  ENUM_STRING = "NUI_MONKEY_EARTH"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SIXEAR_1,
+  ENUM_STRING = "NUI_MONKEY_SIXEAR_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SIXEAR_2,
+  ENUM_STRING = "NUI_MONKEY_SIXEAR_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SIXEAR_3,
+  ENUM_STRING = "NUI_MONKEY_SIXEAR_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_SIXEAR_4,
+  ENUM_STRING = "NUI_MONKEY_SIXEAR_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_ELDER,
+  ENUM_STRING = "NUI_MONKEY_ELDER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MONKEY_LAOJUN,
+  ENUM_STRING = "NUI_MONKEY_LAOJUN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DARKABYSS_MONKEY,
+  ENUM_STRING = "NUI_DARKABYSS_MONKEY"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_SMALL_0,
+  ENUM_STRING = "NUI_BANBOO_SMALL_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_SMALL,
+  ENUM_STRING = "NUI_BANBOO_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BANBOO_FLOWER,
+  ENUM_STRING = "NUI_BANBOO_FLOWER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TREE_KING_0,
+  ENUM_STRING = "NUI_TREE_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TREE_KING_1,
+  ENUM_STRING = "NUI_TREE_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TREE_KING_2,
+  ENUM_STRING = "NUI_TREE_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TREE_KING_3,
+  ENUM_STRING = "NUI_TREE_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TREE_KING_4,
+  ENUM_STRING = "NUI_TREE_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_SMALL,
+  ENUM_STRING = "NUI_BAT_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_VAMPIRE,
+  ENUM_STRING = "NUI_BAT_VAMPIRE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KING_0,
+  ENUM_STRING = "NUI_BAT_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KING_1,
+  ENUM_STRING = "NUI_BAT_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KING_2,
+  ENUM_STRING = "NUI_BAT_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KING_3,
+  ENUM_STRING = "NUI_BAT_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KING_4,
+  ENUM_STRING = "NUI_BAT_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BAT_KILLER,
+  ENUM_STRING = "NUI_BAT_KILLER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGICCURE,
+  ENUM_STRING = "NUI_RABBIT_MAGICCURE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SMALL,
+  ENUM_STRING = "NUI_RABBIT_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_BOW,
+  ENUM_STRING = "NUI_RABBIT_BOW"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_SOLDIER,
+  ENUM_STRING = "NUI_RABBIT_SOLDIER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_KING_0,
+  ENUM_STRING = "NUI_RABBIT_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_KING_1,
+  ENUM_STRING = "NUI_RABBIT_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_KING_2,
+  ENUM_STRING = "NUI_RABBIT_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_KING_3,
+  ENUM_STRING = "NUI_RABBIT_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_KING_4,
+  ENUM_STRING = "NUI_RABBIT_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGIC,
+  ENUM_STRING = "NUI_RABBIT_MAGIC"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_POWWOW,
+  ENUM_STRING = "NUI_RABBIT_POWWOW"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_GUARD,
+  ENUM_STRING = "NUI_RABBIT_GUARD"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_ELDER_0,
+  ENUM_STRING = "NUI_RABBIT_ELDER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_ELDER_1,
+  ENUM_STRING = "NUI_RABBIT_ELDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_ELDER_2,
+  ENUM_STRING = "NUI_RABBIT_ELDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_ELDER_3,
+  ENUM_STRING = "NUI_RABBIT_ELDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_ELDER_4,
+  ENUM_STRING = "NUI_RABBIT_ELDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGICSUMMON,
+  ENUM_STRING = "NUI_RABBIT_MAGICSUMMON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_MAGICFEIYUN,
+  ENUM_STRING = "NUI_RABBIT_MAGICFEIYUN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RABBIT_CARROTS,
+  ENUM_STRING = "NUI_RABBIT_CARROTS"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DARKABYSS_RABBIT,
+  ENUM_STRING = "NUI_DARKABYSS_RABBIT"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_SENTINEL,
+  ENUM_STRING = "NUI_BOAR_SENTINEL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_BANDITI,
+  ENUM_STRING = "NUI_BOAR_BANDITI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_CRAZY,
+  ENUM_STRING = "NUI_BOAR_CRAZY"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_KING_0,
+  ENUM_STRING = "NUI_BOAR_KING_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_KING_1,
+  ENUM_STRING = "NUI_BOAR_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_KING_2,
+  ENUM_STRING = "NUI_BOAR_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_KING_3,
+  ENUM_STRING = "NUI_BOAR_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_KING_4,
+  ENUM_STRING = "NUI_BOAR_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOAR_HEADER,
+  ENUM_STRING = "NUI_BOAR_HEADER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_SENTINEL,
+  ENUM_STRING = "NUI_WOLF_SENTINEL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KILLER,
+  ENUM_STRING = "NUI_WOLF_KILLER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_HEADER,
+  ENUM_STRING = "NUI_WOLF_HEADER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_CAPTAIN,
+  ENUM_STRING = "NUI_WOLF_CAPTAIN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_ELITE_0,
+  ENUM_STRING = "NUI_WOLF_ELITE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_ELITE_1,
+  ENUM_STRING = "NUI_WOLF_ELITE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_ELITE_2,
+  ENUM_STRING = "NUI_WOLF_ELITE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_ELITE_3,
+  ENUM_STRING = "NUI_WOLF_ELITE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_ELITE_4,
+  ENUM_STRING = "NUI_WOLF_ELITE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_1,
+  ENUM_STRING = "NUI_WOLF_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_2,
+  ENUM_STRING = "NUI_WOLF_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_3,
+  ENUM_STRING = "NUI_WOLF_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_4,
+  ENUM_STRING = "NUI_WOLF_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_SNOW_1,
+  ENUM_STRING = "NUI_WOLF_KING_SNOW_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_SNOW_2,
+  ENUM_STRING = "NUI_WOLF_KING_SNOW_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_SNOW_3,
+  ENUM_STRING = "NUI_WOLF_KING_SNOW_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WOLF_KING_SNOW_4,
+  ENUM_STRING = "NUI_WOLF_KING_SNOW_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_STRONG,
+  ENUM_STRING = "NUI_TIGER_STRONG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_WHITE,
+  ENUM_STRING = "NUI_TIGER_WHITE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_JUMP,
+  ENUM_STRING = "NUI_TIGER_JUMP"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_KING_1,
+  ENUM_STRING = "NUI_TIGER_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_KING_2,
+  ENUM_STRING = "NUI_TIGER_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_KING_3,
+  ENUM_STRING = "NUI_TIGER_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIGER_KING_4,
+  ENUM_STRING = "NUI_TIGER_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DARKABYSS_TIGER,
+  ENUM_STRING = "NUI_DARKABYSS_TIGER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_POISON,
+  ENUM_STRING = "NUI_MUSHROOM_POISON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_ODDNESS,
+  ENUM_STRING = "NUI_MUSHROOM_ODDNESS"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_SPORE,
+  ENUM_STRING = "NUI_MUSHROOM_SPORE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_KING_1,
+  ENUM_STRING = "NUI_MUSHROOM_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_KING_2,
+  ENUM_STRING = "NUI_MUSHROOM_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_KING_3,
+  ENUM_STRING = "NUI_MUSHROOM_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_KING_4,
+  ENUM_STRING = "NUI_MUSHROOM_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_DARK,
+  ENUM_STRING = "NUI_MUSHROOM_DARK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_MAGIC,
+  ENUM_STRING = "NUI_MUSHROOM_MAGIC"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_SMALL,
+  ENUM_STRING = "NUI_MOUSE_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_FLYER,
+  ENUM_STRING = "NUI_MOUSE_FLYER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSE_1,
+  ENUM_STRING = "NUI_MOUSE_HOUSE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOUSE_HOUSE_2,
+  ENUM_STRING = "NUI_MOUSE_HOUSE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_0,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_1,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_2,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_3,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_4,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_BLACK_1,
+  ENUM_STRING = "NUI_MICE_KING_BLACK_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_BLACK_2,
+  ENUM_STRING = "NUI_MICE_KING_BLACK_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_BLACK_3,
+  ENUM_STRING = "NUI_MICE_KING_BLACK_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_BLACK_4,
+  ENUM_STRING = "NUI_MICE_KING_BLACK_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_RED_1,
+  ENUM_STRING = "NUI_MICE_KING_RED_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_RED_2,
+  ENUM_STRING = "NUI_MICE_KING_RED_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_RED_3,
+  ENUM_STRING = "NUI_MICE_KING_RED_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_RED_4,
+  ENUM_STRING = "NUI_MICE_KING_RED_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_A_1,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_A_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_A_2,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_A_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_A_3,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_A_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_A_4,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_A_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_B_1,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_B_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_B_2,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_B_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_B_3,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_B_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_B_4,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_B_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_C_1,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_C_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_C_2,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_C_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_C_3,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_C_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MICE_KING_GRAY_C_4,
+  ENUM_STRING = "NUI_MICE_KING_GRAY_C_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DARKABYSS_MICE,
+  ENUM_STRING = "NUI_DARKABYSS_MICE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SMALL,
+  ENUM_STRING = "NUI_LANTERN_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_SPOOK,
+  ENUM_STRING = "NUI_LANTERN_SPOOK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_HORN,
+  ENUM_STRING = "NUI_LANTERN_HORN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_KING_1,
+  ENUM_STRING = "NUI_LANTERN_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_KING_2,
+  ENUM_STRING = "NUI_LANTERN_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_KING_3,
+  ENUM_STRING = "NUI_LANTERN_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANTERN_KING_4,
+  ENUM_STRING = "NUI_LANTERN_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_BIG,
+  ENUM_STRING = "NUI_BOTTLE_BIG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOTTLE_FIRE,
+  ENUM_STRING = "NUI_BOTTLE_FIRE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_EARTH,
+  ENUM_STRING = "NUI_HAOHAO_EARTH"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_WIND,
+  ENUM_STRING = "NUI_HAOHAO_WIND"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_FIRE,
+  ENUM_STRING = "NUI_HAOHAO_FIRE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HAOHAO_SMALL,
+  ENUM_STRING = "NUI_HAOHAO_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_POISON,
+  ENUM_STRING = "NUI_SCORPION_POISON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_GLODTAIL,
+  ENUM_STRING = "NUI_SCORPION_GLODTAIL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_KING_1,
+  ENUM_STRING = "NUI_SCORPION_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_KING_2,
+  ENUM_STRING = "NUI_SCORPION_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_KING_3,
+  ENUM_STRING = "NUI_SCORPION_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SCORPION_KING_4,
+  ENUM_STRING = "NUI_SCORPION_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DARKABYSS_SCORPION,
+  ENUM_STRING = "NUI_DARKABYSS_SCORPION"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_SPRITE,
+  ENUM_STRING = "NUI_FIRE_SPRITE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_SPRITE,
+  ENUM_STRING = "NUI_WATER_SPRITE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WEED_SPRITE,
+  ENUM_STRING = "NUI_WEED_SPRITE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE,
+  ENUM_STRING = "NUI_FLOWER_SPRITE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_WHITE,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_WHITE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FLOWER_SPRITE_HUA,
+  ENUM_STRING = "NUI_FLOWER_SPRITE_HUA"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITE,
+  ENUM_STRING = "NUI_SPRITE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YA_0,
+  ENUM_STRING = "NUI_YA_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YA_1,
+  ENUM_STRING = "NUI_YA_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YA_2,
+  ENUM_STRING = "NUI_YA_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YA_3,
+  ENUM_STRING = "NUI_YA_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YA_4,
+  ENUM_STRING = "NUI_YA_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CROW_FAT,
+  ENUM_STRING = "NUI_CROW_FAT"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_STONE_GUARD_XL,
+  ENUM_STRING = "NUI_STONE_GUARD_XL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_STONE_GUARD_L,
+  ENUM_STRING = "NUI_STONE_GUARD_L"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_STONE_GUARD_M,
+  ENUM_STRING = "NUI_STONE_GUARD_M"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_STONE_GUARD_S,
+  ENUM_STRING = "NUI_STONE_GUARD_S"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_STONE_GUARD_SMALL,
+  ENUM_STRING = "NUI_STONE_GUARD_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUNDUNSHIMO,
+  ENUM_STRING = "NUI_HUNDUNSHIMO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SHIJIEJIE_L,
+  ENUM_STRING = "NUI_SHIJIEJIE_L"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SHIJIEJIE_R,
+  ENUM_STRING = "NUI_SHIJIEJIE_R"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIANREN,
+  ENUM_STRING = "NUI_XIANREN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_OGRESS_NORMAL,
+  ENUM_STRING = "NUI_OGRESS_NORMAL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_THORN,
+  ENUM_STRING = "NUI_THORN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QUEEN_ROSE_1,
+  ENUM_STRING = "NUI_QUEEN_ROSE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QUEEN_ROSE_2,
+  ENUM_STRING = "NUI_QUEEN_ROSE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QUEEN_ROSE_3,
+  ENUM_STRING = "NUI_QUEEN_ROSE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QUEEN_ROSE_4,
+  ENUM_STRING = "NUI_QUEEN_ROSE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_DRAGON_0,
+  ENUM_STRING = "NUI_WATER_DRAGON_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_DRAGON_1,
+  ENUM_STRING = "NUI_WATER_DRAGON_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_DRAGON_2,
+  ENUM_STRING = "NUI_WATER_DRAGON_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_DRAGON_3,
+  ENUM_STRING = "NUI_WATER_DRAGON_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WATER_DRAGON_4,
+  ENUM_STRING = "NUI_WATER_DRAGON_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_1,
+  ENUM_STRING = "NUI_MANDRILL_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_2,
+  ENUM_STRING = "NUI_MANDRILL_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_3,
+  ENUM_STRING = "NUI_MANDRILL_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_4,
+  ENUM_STRING = "NUI_MANDRILL_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_SHADOW_0,
+  ENUM_STRING = "NUI_MANDRILL_SHADOW_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_SHADOW_1,
+  ENUM_STRING = "NUI_MANDRILL_SHADOW_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_SHADOW_2,
+  ENUM_STRING = "NUI_MANDRILL_SHADOW_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_SHADOW_3,
+  ENUM_STRING = "NUI_MANDRILL_SHADOW_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MANDRILL_SHADOW_4,
+  ENUM_STRING = "NUI_MANDRILL_SHADOW_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPIDER,
+  ENUM_STRING = "NUI_SPIDER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_POISON_SPIDER,
+  ENUM_STRING = "NUI_POISON_SPIDER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GOLD_SPIDER,
+  ENUM_STRING = "NUI_GOLD_SPIDER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_EARTH_SPIDER_1,
+  ENUM_STRING = "NUI_EARTH_SPIDER_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_EARTH_SPIDER_2,
+  ENUM_STRING = "NUI_EARTH_SPIDER_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_EARTH_SPIDER_3,
+  ENUM_STRING = "NUI_EARTH_SPIDER_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_EARTH_SPIDER_4,
+  ENUM_STRING = "NUI_EARTH_SPIDER_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DESERT_SPIDER,
+  ENUM_STRING = "NUI_DESERT_SPIDER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_MAO,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_MAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_SOLDIER_GONG,
+  ENUM_STRING = "NUI_SNAKE_SOLDIER_GONG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SNAKE_MAID,
+  ENUM_STRING = "NUI_SNAKE_MAID"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_1,
+  ENUM_STRING = "NUI_QING_GENT_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_2,
+  ENUM_STRING = "NUI_QING_GENT_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_3,
+  ENUM_STRING = "NUI_QING_GENT_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_4,
+  ENUM_STRING = "NUI_QING_GENT_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_SNAKE_1,
+  ENUM_STRING = "NUI_QING_GENT_SNAKE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_SNAKE_2,
+  ENUM_STRING = "NUI_QING_GENT_SNAKE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_SNAKE_3,
+  ENUM_STRING = "NUI_QING_GENT_SNAKE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QING_GENT_SNAKE_4,
+  ENUM_STRING = "NUI_QING_GENT_SNAKE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_ONE,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_ONE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_MINI_TWO,
+  ENUM_STRING = "NUI_SPRITEMACHINE_MINI_TWO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_ROCK,
+  ENUM_STRING = "NUI_SPRITEMACHINE_ROCK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_CLAW_0,
+  ENUM_STRING = "NUI_SPRITEMACHINE_CLAW_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPRITEMACHINE_CLAW,
+  ENUM_STRING = "NUI_SPRITEMACHINE_CLAW"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE,
+  ENUM_STRING = "NUI_GHOST_TIANXIE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE,
+  ENUM_STRING = "NUI_GHOST_ONEEYE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_TIANXIE_GOLD,
+  ENUM_STRING = "NUI_GHOST_TIANXIE_GOLD"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GHOST_ONEEYE_XIONG,
+  ENUM_STRING = "NUI_GHOST_ONEEYE_XIONG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TOTEM_POLE_XUNFENG_0,
+  ENUM_STRING = "NUI_TOTEM_POLE_XUNFENG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TOTEM_POLE_XUNFENG,
+  ENUM_STRING = "NUI_TOTEM_POLE_XUNFENG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TOTEM_POLE_JINGLEI_0,
+  ENUM_STRING = "NUI_TOTEM_POLE_JINGLEI_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TOTEM_POLE_JINGLEI,
+  ENUM_STRING = "NUI_TOTEM_POLE_JINGLEI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HYPOGEAL_WORM,
+  ENUM_STRING = "NUI_HYPOGEAL_WORM"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_VULTURE,
+  ENUM_STRING = "NUI_VULTURE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SKELETON_SOLDIER,
+  ENUM_STRING = "NUI_SKELETON_SOLDIER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SKELETON_BOW,
+  ENUM_STRING = "NUI_SKELETON_BOW"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SKELETON_MAGIC,
+  ENUM_STRING = "NUI_SKELETON_MAGIC"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SKELETON_CAPTAIN,
+  ENUM_STRING = "NUI_SKELETON_CAPTAIN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HYPOGEAL_WORM_KING_1,
+  ENUM_STRING = "NUI_HYPOGEAL_WORM_KING_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HYPOGEAL_WORM_KING_2,
+  ENUM_STRING = "NUI_HYPOGEAL_WORM_KING_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HYPOGEAL_WORM_KING_3,
+  ENUM_STRING = "NUI_HYPOGEAL_WORM_KING_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HYPOGEAL_WORM_KING_4,
+  ENUM_STRING = "NUI_HYPOGEAL_WORM_KING_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPOOK_MAGIC_1,
+  ENUM_STRING = "NUI_SPOOK_MAGIC_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPOOK_MAGIC_2,
+  ENUM_STRING = "NUI_SPOOK_MAGIC_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPOOK_MAGIC_3,
+  ENUM_STRING = "NUI_SPOOK_MAGIC_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPOOK_MAGIC_4,
+  ENUM_STRING = "NUI_SPOOK_MAGIC_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_DOG_DOUBLE_1,
+  ENUM_STRING = "NUI_MAGIC_DOG_DOUBLE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_DOG_DOUBLE_2,
+  ENUM_STRING = "NUI_MAGIC_DOG_DOUBLE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_DOG_DOUBLE_3,
+  ENUM_STRING = "NUI_MAGIC_DOG_DOUBLE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_DOG_DOUBLE_4,
+  ENUM_STRING = "NUI_MAGIC_DOG_DOUBLE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_MONSTER_SMALL,
+  ENUM_STRING = "NUI_MAGIC_MONSTER_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_SOLDIER_ADVANCED,
+  ENUM_STRING = "NUI_MAGIC_SOLDIER_ADVANCED"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NIUMOWANG_1,
+  ENUM_STRING = "NUI_NIUMOWANG_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NIUMOWANG_2,
+  ENUM_STRING = "NUI_NIUMOWANG_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NIUMOWANG_3,
+  ENUM_STRING = "NUI_NIUMOWANG_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NIUMOWANG_4,
+  ENUM_STRING = "NUI_NIUMOWANG_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPOOK_MAGIC_ADV_1,
+  ENUM_STRING = "NUI_SPOOK_MAGIC_ADV_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPOOK_MAGIC_ADV_2,
+  ENUM_STRING = "NUI_SPOOK_MAGIC_ADV_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPOOK_MAGIC_ADV_3,
+  ENUM_STRING = "NUI_SPOOK_MAGIC_ADV_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SPOOK_MAGIC_ADV_4,
+  ENUM_STRING = "NUI_SPOOK_MAGIC_ADV_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NIAN_0,
+  ENUM_STRING = "NUI_NIAN_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NIAN,
+  ENUM_STRING = "NUI_NIAN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HOUSE_0,
+  ENUM_STRING = "NUI_HOUSE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HOUSE_1,
+  ENUM_STRING = "NUI_HOUSE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HOUSE_2,
+  ENUM_STRING = "NUI_HOUSE_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HOUSE_3,
+  ENUM_STRING = "NUI_HOUSE_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HOUSE_4,
+  ENUM_STRING = "NUI_HOUSE_4"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RIFT_WATER,
+  ENUM_STRING = "NUI_RIFT_WATER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QILIN,
+  ENUM_STRING = "NUI_QILIN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_FG_XIAO,
+  ENUM_STRING = "NUI_FIRE_FG_XIAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_FG_XIAOHU,
+  ENUM_STRING = "NUI_FIRE_FG_XIAOHU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_LG_XIAO,
+  ENUM_STRING = "NUI_FIRE_LG_XIAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_LG_XIAOHU,
+  ENUM_STRING = "NUI_FIRE_LG_XIAOHU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_MS_LIAN,
+  ENUM_STRING = "NUI_FIRE_MS_LIAN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_MS_XI,
+  ENUM_STRING = "NUI_FIRE_MS_XI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_XL_LIAN,
+  ENUM_STRING = "NUI_FIRE_XL_LIAN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_XL_XI,
+  ENUM_STRING = "NUI_FIRE_XL_XI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_TJ_SHENTIANCI,
+  ENUM_STRING = "NUI_FIRE_TJ_SHENTIANCI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_TJ_WU,
+  ENUM_STRING = "NUI_FIRE_TJ_WU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_YJ_SHENTIANCI,
+  ENUM_STRING = "NUI_FIRE_YJ_SHENTIANCI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_YJ_WU,
+  ENUM_STRING = "NUI_FIRE_YJ_WU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_SH_YAOHU,
+  ENUM_STRING = "NUI_FIRE_SH_YAOHU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_ZF_YAOHU,
+  ENUM_STRING = "NUI_FIRE_ZF_YAOHU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_WUXING_ERPANG,
+  ENUM_STRING = "NUI_FIRE_WUXING_ERPANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_WUXING_YUELING,
+  ENUM_STRING = "NUI_FIRE_WUXING_YUELING"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_YULING_ERPANG,
+  ENUM_STRING = "NUI_FIRE_YULING_ERPANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_YULING_YUELING,
+  ENUM_STRING = "NUI_FIRE_YULING_YUELING"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIRE_SPRITE_SUMMON,
+  ENUM_STRING = "NUI_FIRE_SPRITE_SUMMON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RIFT_QST_0,
+  ENUM_STRING = "NUI_RIFT_QST_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_RIFT_QST_1,
+  ENUM_STRING = "NUI_RIFT_QST_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUODONG_JIFENG,
+  ENUM_STRING = "NUI_HUODONG_JIFENG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUODONG_NULEI,
+  ENUM_STRING = "NUI_HUODONG_NULEI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUODONG_TIANHUO,
+  ENUM_STRING = "NUI_HUODONG_TIANHUO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUODONG_YUANSHI,
+  ENUM_STRING = "NUI_HUODONG_YUANSHI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUODONG_ZIYANG,
+  ENUM_STRING = "NUI_HUODONG_ZIYANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUODONG_MOONRABBIT,
+  ENUM_STRING = "NUI_HUODONG_MOONRABBIT"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WUTOUQISHI,
+  ENUM_STRING = "NUI_WUTOUQISHI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_01,
+  ENUM_STRING = "NUI_TURKEY_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_02,
+  ENUM_STRING = "NUI_TURKEY_02"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_03,
+  ENUM_STRING = "NUI_TURKEY_03"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_04,
+  ENUM_STRING = "NUI_TURKEY_04"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_05,
+  ENUM_STRING = "NUI_TURKEY_05"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_06,
+  ENUM_STRING = "NUI_TURKEY_06"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_07,
+  ENUM_STRING = "NUI_TURKEY_07"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_08,
+  ENUM_STRING = "NUI_TURKEY_08"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_09,
+  ENUM_STRING = "NUI_TURKEY_09"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_SNOWMAN_SMALL,
+  ENUM_STRING = "NUI_M_SNOWMAN_SMALL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_MONKEY_SNOW,
+  ENUM_STRING = "NUI_M_MONKEY_SNOW"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_WOLF_SNOW,
+  ENUM_STRING = "NUI_M_WOLF_SNOW"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_YILIDAN,
+  ENUM_STRING = "NUI_M_YILIDAN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_MICE_BLACK,
+  ENUM_STRING = "NUI_M_MICE_BLACK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_RABBIT_KING,
+  ENUM_STRING = "NUI_M_RABBIT_KING"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_TIGER_KING,
+  ENUM_STRING = "NUI_M_TIGER_KING"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_SNOWMAN_KING,
+  ENUM_STRING = "NUI_M_SNOWMAN_KING"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_MONKEY_HEADER,
+  ENUM_STRING = "NUI_M_MONKEY_HEADER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_QING_GENT,
+  ENUM_STRING = "NUI_M_QING_GENT"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHRISTMAS_BOX,
+  ENUM_STRING = "NUI_CHRISTMAS_BOX"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_M_SUMMON_BOX,
+  ENUM_STRING = "NUI_M_SUMMON_BOX"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_KEYCODE_0,
+  ENUM_STRING = "NUI_NONE_KEYCODE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_SUMMONTIGER_0,
+  ENUM_STRING = "NUI_NONE_SUMMONTIGER_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_SUMMONWOLF_0,
+  ENUM_STRING = "NUI_NONE_SUMMONWOLF_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_SUMMONTIGERSIEGE_0,
+  ENUM_STRING = "NUI_NONE_SUMMONTIGERSIEGE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_BAT_KING_JIFENG_0,
+  ENUM_STRING = "NUI_NONE_BAT_KING_JIFENG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_HUISHUWANG_TIANHUO_0,
+  ENUM_STRING = "NUI_NONE_HUISHUWANG_TIANHUO_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_TIANHUO_0,
+  ENUM_STRING = "NUI_NONE_TIANHUO_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_JIFENG_0,
+  ENUM_STRING = "NUI_NONE_JIFENG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_NULEI_0,
+  ENUM_STRING = "NUI_NONE_NULEI_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_YUANSHI_0,
+  ENUM_STRING = "NUI_NONE_YUANSHI_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUNDUNSHIMO_LRQ,
+  ENUM_STRING = "NUI_HUNDUNSHIMO_LRQ"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUNDUNSHIMO_L,
+  ENUM_STRING = "NUI_HUNDUNSHIMO_L"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUNDUNSHIMO_R,
+  ENUM_STRING = "NUI_HUNDUNSHIMO_R"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HUNDUNSHIMO_LRK,
+  ENUM_STRING = "NUI_HUNDUNSHIMO_LRK"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIANREN_DROPITEM,
+  ENUM_STRING = "NUI_XIANREN_DROPITEM"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_DARKABYSS_0,
+  ENUM_STRING = "NUI_NONE_DARKABYSS_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_SEARCH_0,
+  ENUM_STRING = "NUI_NONE_SEARCH_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_SEARCH_1,
+  ENUM_STRING = "NUI_NONE_SEARCH_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_SEARCH_2,
+  ENUM_STRING = "NUI_NONE_SEARCH_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_SEARCH_3,
+  ENUM_STRING = "NUI_NONE_SEARCH_3"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_TEST_0,
+  ENUM_STRING = "NUI_NONE_TEST_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NONE_NIUMOWANG_0,
+  ENUM_STRING = "NUI_NONE_NIUMOWANG_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_WOOD,
+  ENUM_STRING = "NUI_CHEST_WOOD"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_IRON,
+  ENUM_STRING = "NUI_CHEST_IRON"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_COPPER,
+  ENUM_STRING = "NUI_CHEST_COPPER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_SILLER,
+  ENUM_STRING = "NUI_CHEST_SILLER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_GOLD,
+  ENUM_STRING = "NUI_CHEST_GOLD"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_SPECIAL,
+  ENUM_STRING = "NUI_CHEST_SPECIAL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_BOSS_0,
+  ENUM_STRING = "NUI_CHEST_BOSS_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_BOSS,
+  ENUM_STRING = "NUI_CHEST_BOSS"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_CHUNJIE_0,
+  ENUM_STRING = "NUI_CHEST_CHUNJIE_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CHEST_CHUNJIE_1,
+  ENUM_STRING = "NUI_CHEST_CHUNJIE_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BOX,
+  ENUM_STRING = "NUI_BOX"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_BOX_1,
+  ENUM_STRING = "NUI_TURKEY_BOX_1"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEY_BOX_2,
+  ENUM_STRING = "NUI_TURKEY_BOX_2"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_DOOR_0,
+  ENUM_STRING = "NUI_MAGIC_DOOR_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_DOOR,
+  ENUM_STRING = "NUI_MAGIC_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOYU_DOOR_0,
+  ENUM_STRING = "NUI_MOYU_DOOR_0"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOYU_DOOR,
+  ENUM_STRING = "NUI_MOYU_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MOYU_DOOR_BOX,
+  ENUM_STRING = "NUI_MOYU_DOOR_BOX"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TRAP_THORN,
+  ENUM_STRING = "NUI_TRAP_THORN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIGHT_01,
+  ENUM_STRING = "NUI_LIGHT_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LIGHT_02,
+  ENUM_STRING = "NUI_LIGHT_02"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SWORDFLOOR,
+  ENUM_STRING = "NUI_SWORDFLOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SHILIANCHUANSONG,
+  ENUM_STRING = "NUI_SHILIANCHUANSONG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DOOR,
+  ENUM_STRING = "NUI_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TOWN_DOOR_01,
+  ENUM_STRING = "NUI_TOWN_DOOR_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TOWN_DOOR_02,
+  ENUM_STRING = "NUI_TOWN_DOOR_02"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TOWN_DOOR_03,
+  ENUM_STRING = "NUI_TOWN_DOOR_03"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BLACKCRYSTAL,
+  ENUM_STRING = "NUI_BLACKCRYSTAL"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MAGIC_STONE,
+  ENUM_STRING = "NUI_MAGIC_STONE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEYDOOR_01,
+  ENUM_STRING = "NUI_TURKEYDOOR_01"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEYDOOR_02,
+  ENUM_STRING = "NUI_TURKEYDOOR_02"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TURKEYDOOR_03,
+  ENUM_STRING = "NUI_TURKEYDOOR_03"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NPC_BOSS,
+  ENUM_STRING = "NUI_NPC_BOSS"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NPC_MONKEY,
+  ENUM_STRING = "NUI_NPC_MONKEY"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MUSHROOM_WOODEN,
+  ENUM_STRING = "NUI_MUSHROOM_WOODEN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_INVISIBLE_DUMMY,
+  ENUM_STRING = "NUI_INVISIBLE_DUMMY"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NPC_END,
+  ENUM_STRING = "NUI_NPC_END"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIAOTIAN,
+  ENUM_STRING = "NUI_XIAOTIAN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WANGCUNZHANG,
+  ENUM_STRING = "NUI_WANGCUNZHANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LAOQI,
+  ENUM_STRING = "NUI_LAOQI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DENGHE,
+  ENUM_STRING = "NUI_DENGHE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_WANGDAZUI,
+  ENUM_STRING = "NUI_WANGDAZUI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HEXIANGU,
+  ENUM_STRING = "NUI_HEXIANGU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SHENYUANWAI,
+  ENUM_STRING = "NUI_SHENYUANWAI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YANGZU,
+  ENUM_STRING = "NUI_YANGZU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TIEGUAILI,
+  ENUM_STRING = "NUI_TIEGUAILI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CANGHUOER,
+  ENUM_STRING = "NUI_CANGHUOER"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XINGJIAOSHANG,
+  ENUM_STRING = "NUI_XINGJIAOSHANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SHOUHUZHECANG,
+  ENUM_STRING = "NUI_SHOUHUZHECANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LAOZHANG,
+  ENUM_STRING = "NUI_LAOZHANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NANRENPO,
+  ENUM_STRING = "NUI_NANRENPO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIANWEILI,
+  ENUM_STRING = "NUI_XIANWEILI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_NANDOU,
+  ENUM_STRING = "NUI_NANDOU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_MINGYUE,
+  ENUM_STRING = "NUI_MINGYUE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_AMENG,
+  ENUM_STRING = "NUI_AMENG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LAOZHAIZHU,
+  ENUM_STRING = "NUI_LAOZHAIZHU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIAOXUE,
+  ENUM_STRING = "NUI_XIAOXUE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DEPOSITORY,
+  ENUM_STRING = "NUI_DEPOSITORY"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LANCAIHE,
+  ENUM_STRING = "NUI_LANCAIHE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_SHUAIPENG,
+  ENUM_STRING = "NUI_SHUAIPENG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIAOZHENYU,
+  ENUM_STRING = "NUI_XIAOZHENYU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_DANJIE,
+  ENUM_STRING = "NUI_DANJIE"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_ZHANGJIACHANG,
+  ENUM_STRING = "NUI_ZHANGJIACHANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_GULINGJINGGUAI,
+  ENUM_STRING = "NUI_GULINGJINGGUAI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LVDONGBIN,
+  ENUM_STRING = "NUI_LVDONGBIN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_HANXIANGZI,
+  ENUM_STRING = "NUI_HANXIANGZI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_CAOGUOJIU,
+  ENUM_STRING = "NUI_CAOGUOJIU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_00GOU,
+  ENUM_STRING = "NUI_00GOU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_00NIU,
+  ENUM_STRING = "NUI_00NIU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_00MA,
+  ENUM_STRING = "NUI_00MA"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_00TU,
+  ENUM_STRING = "NUI_00TU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_00SHU,
+  ENUM_STRING = "NUI_00SHU"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XUNLIAN,
+  ENUM_STRING = "NUI_XUNLIAN"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YUELAO,
+  ENUM_STRING = "NUI_YUELAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_XIAOAI,
+  ENUM_STRING = "NUI_XIAOAI"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_TAOYUANXI_DOOR,
+  ENUM_STRING = "NUI_FIELD_TAOYUANXI_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_TAOYUAN_DOOR,
+  ENUM_STRING = "NUI_FIELD_TAOYUAN_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_QINGPU_DOOR,
+  ENUM_STRING = "NUI_FIELD_QINGPU_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_BUZHOUSHAN_DOOR,
+  ENUM_STRING = "NUI_FIELD_BUZHOUSHAN_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_LUOCHUAN_DOOR,
+  ENUM_STRING = "NUI_FIELD_LUOCHUAN_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_BEILING_DOOR,
+  ENUM_STRING = "NUI_FIELD_BEILING_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_HELLTOWER_DOOR,
+  ENUM_STRING = "NUI_FIELD_HELLTOWER_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_MENGHUANDAO_DOOR,
+  ENUM_STRING = "NUI_FIELD_MENGHUANDAO_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_YINGYINHU_DOOR,
+  ENUM_STRING = "NUI_FIELD_YINGYINHU_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_FIELD_MOYU_DOOR,
+  ENUM_STRING = "NUI_FIELD_MOYU_DOOR"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_TYGONGGAO,
+  ENUM_STRING = "NUI_TYGONGGAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_QPGONGGAO,
+  ENUM_STRING = "NUI_QPGONGGAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BZSGONGGAO,
+  ENUM_STRING = "NUI_BZSGONGGAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_LCGONGGAO,
+  ENUM_STRING = "NUI_LCGONGGAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_BSZGONGGAO,
+  ENUM_STRING = "NUI_BSZGONGGAO"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_YING,
+  ENUM_STRING = "NUI_YING"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_KUANG,
+  ENUM_STRING = "NUI_KUANG"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_DIEYAO_D,
+  ENUM_STRING = "NUI_PET_DIEYAO_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_DIEYAO_V,
+  ENUM_STRING = "NUI_PET_DIEYAO_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_FEILONG_D,
+  ENUM_STRING = "NUI_PET_FEILONG_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_FEILONG_V,
+  ENUM_STRING = "NUI_PET_FEILONG_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_PIG_D,
+  ENUM_STRING = "NUI_PET_PIG_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_PIG_V,
+  ENUM_STRING = "NUI_PET_PIG_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_SENLINJINGLING_D,
+  ENUM_STRING = "NUI_PET_SENLINJINGLING_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_SENLINJINGLING_V,
+  ENUM_STRING = "NUI_PET_SENLINJINGLING_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_TAIJINXING_D,
+  ENUM_STRING = "NUI_PET_TAIJINXING_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_TAIJINXING_V,
+  ENUM_STRING = "NUI_PET_TAIJINXING_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_GHOST_D,
+  ENUM_STRING = "NUI_PET_GHOST_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_GHOST_V,
+  ENUM_STRING = "NUI_PET_GHOST_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_GUIJIANG_D,
+  ENUM_STRING = "NUI_PET_GUIJIANG_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_GUIJIANG_V,
+  ENUM_STRING = "NUI_PET_GUIJIANG_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_HOUZI_D,
+  ENUM_STRING = "NUI_PET_HOUZI_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_HOUZI_V,
+  ENUM_STRING = "NUI_PET_HOUZI_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_YA_D,
+  ENUM_STRING = "NUI_PET_YA_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID["NUI_PET_YA_V "],
+  ENUM_STRING = "NUI_PET_YA_V "
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID["NUI_PET_LINGZIBAO_D "],
+  ENUM_STRING = "NUI_PET_LINGZIBAO_D "
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID["NUI_PET_LINGZIBAO_V "],
+  ENUM_STRING = "NUI_PET_LINGZIBAO_V "
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID["NUI_PET_HUAJING_D "],
+  ENUM_STRING = "NUI_PET_HUAJING_D "
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID["NUI_PET_HUAJING_V "],
+  ENUM_STRING = "NUI_PET_HUAJING_V "
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_LINGZISHENGMINGTI_D,
+  ENUM_STRING = "NUI_PET_LINGZISHENGMINGTI_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_LINGZISHENGMINGTI_V,
+  ENUM_STRING = "NUI_PET_LINGZISHENGMINGTI_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_HUNDUNSHIMO_D,
+  ENUM_STRING = "NUI_PET_HUNDUNSHIMO_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_HUNDUNSHIMO_V,
+  ENUM_STRING = "NUI_PET_HUNDUNSHIMO_V"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_YUTU_D,
+  ENUM_STRING = "NUI_PET_YUTU_D"
+})
+g_pEnumManager:AddNpcEnumData_LUA({
+  ENUM_ID = NPC_UNIT_ID.NUI_PET_YUTU_V,
+  ENUM_STRING = "NUI_PET_YUTU_V"
+})

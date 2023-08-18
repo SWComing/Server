@@ -1,0 +1,1 @@
+start /min /dLoadBalancer\ LoadBalancer\LoadBalancer64.exe

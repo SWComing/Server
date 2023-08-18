@@ -1,0 +1,1 @@
+start /min /dCenterServer\ CenterServer\CenterServer64.exe

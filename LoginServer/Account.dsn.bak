@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=sa
+DATABASE=Account
+WSID=VPS-BRN-02
+APP=Microsoft Data Access Components
+SERVER=10.0.0.148
+PWD=BY?21^f~;e(f8)o2n?U9vVGD

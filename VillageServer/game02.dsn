@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server Native Client 11.0
+UID=sa
+DATABASE=Game01
+WSID=10.0.0.148
+APP=Microsoft Data Access Components
+SERVER=Renan-PC\SQL2008
+PWD=123456

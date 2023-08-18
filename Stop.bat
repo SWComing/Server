@@ -1,0 +1,9 @@
+tskill LoadBalancer64
+tskill FetchServer64
+tskill LoginServer64
+tskill VerifyServer64
+tskill ChatServer64
+tskill VillageServer64
+tskill DBAgentServer64
+tskill CenterServer64
+tskill GameServer64

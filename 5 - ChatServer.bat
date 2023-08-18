@@ -1,0 +1,1 @@
+start /min /dChatServer\ ChatServer\ChatServer64.exe
